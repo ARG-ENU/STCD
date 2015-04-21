@@ -1,0 +1,5 @@
+"guid":"2d2a2b40-c6d4-48f5-9a12-81be1de2440c"
+"datetime":"2015-04-21T12:33:12.839092"
+"url":"http://walkit.com/walking-to-work/green-travel-plans/"
+"analyst-name":""
+"analyst-email":""

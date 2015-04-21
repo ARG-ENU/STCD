@@ -1,0 +1,5 @@
+"guid":"c6d92d1a-31f2-4a9c-99cd-836c47837bdb"
+"datetime":"2015-04-21T12:35:23.651544"
+"url":"http://walkit.com/walking-to-school/"
+"analyst-name":""
+"analyst-email":""

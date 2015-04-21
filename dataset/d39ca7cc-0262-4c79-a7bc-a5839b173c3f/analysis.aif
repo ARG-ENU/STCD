@@ -1,0 +1,559 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://www.owl-ontologies.com/araucaria4#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:j.1="http://protege.stanford.edu/aif#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" > 
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#JRole0">
+    <j.0:roleElement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">none</j.0:roleElement>
+    <j.0:roleClass rdf:datatype="http://www.w3.org/2001/XMLSchema#string">wigmoreFact</j.0:roleClass>
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#I">
+    <j.0:locationX rdf:datatype="http://www.w3.org/2001/XMLSchema#double">720.0</j.0:locationX>
+    <j.0:missing rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</j.0:missing>
+    <j.0:hasRole rdf:resource="http://protege.stanford.edu/aif#IRole3"/>
+    <j.0:refutation rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</j.0:refutation>
+    <j.1:edgeTo rdf:resource="http://protege.stanford.edu/aif#S1501559233439182685"/>
+    <j.1:edgeTo rdf:resource="http://protege.stanford.edu/aif#S-6204569685699433488"/>
+    <j.0:locationY rdf:datatype="http://www.w3.org/2001/XMLSchema#double">98.0</j.0:locationY>
+    <j.0:hasRole rdf:resource="http://protege.stanford.edu/aif#IRole1"/>
+    <j.0:hasRole rdf:resource="http://protege.stanford.edu/aif#IRole2"/>
+    <j.0:hasRole rdf:resource="http://protege.stanford.edu/aif#IRole0"/>
+    <j.0:vertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">I</j.0:vertexId>
+    <rdf:type rdf:resource="http://protege.stanford.edu/aif#INode"/>
+    <j.0:textBoundsStart rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1087</j.0:textBoundsStart>
+    <j.0:text rdf:datatype="http://www.w3.org/2001/XMLSchema#string">One in three car journeys in Scotland are less than 2 miles. </j.0:text>
+    <j.0:textBoundsEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1148</j.0:textBoundsEnd>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#S293608192903362254_to_D">
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#ArauEdgeSNodetoINode"/>
+    <j.0:endVertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">D</j.0:endVertexId>
+    <j.0:startVertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S293608192903362254</j.0:startVertexId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#BRole3">
+    <j.0:roleElement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">evidenceTestAffirm</j.0:roleElement>
+    <j.0:roleClass rdf:datatype="http://www.w3.org/2001/XMLSchema#string">wigmore</j.0:roleClass>
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#DRole1">
+    <j.0:roleElement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">no</j.0:roleElement>
+    <j.0:roleClass rdf:datatype="http://www.w3.org/2001/XMLSchema#string">addedNegation</j.0:roleClass>
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#IRole3">
+    <j.0:roleElement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">evidenceTestAffirm</j.0:roleElement>
+    <j.0:roleClass rdf:datatype="http://www.w3.org/2001/XMLSchema#string">wigmore</j.0:roleClass>
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#S5909139107942409083">
+    <j.0:schemeName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Default</j.0:schemeName>
+    <j.1:edgeTo rdf:resource="http://protege.stanford.edu/aif#I"/>
+    <j.0:locationY rdf:datatype="http://www.w3.org/2001/XMLSchema#double">56.5</j.0:locationY>
+    <j.0:locationX rdf:datatype="http://www.w3.org/2001/XMLSchema#double">585.0</j.0:locationX>
+    <j.0:vertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S5909139107942409083</j.0:vertexId>
+    <rdf:type rdf:resource="http://protege.stanford.edu/aif#SNode"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#HRole2">
+    <j.0:roleElement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">data</j.0:roleElement>
+    <j.0:roleClass rdf:datatype="http://www.w3.org/2001/XMLSchema#string">toulmin</j.0:roleClass>
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#S6074743286067111160">
+    <j.0:schemeName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Default</j.0:schemeName>
+    <j.1:edgeTo rdf:resource="http://protege.stanford.edu/aif#H"/>
+    <j.0:locationY rdf:datatype="http://www.w3.org/2001/XMLSchema#double">255.5</j.0:locationY>
+    <j.0:locationX rdf:datatype="http://www.w3.org/2001/XMLSchema#double">405.0</j.0:locationX>
+    <j.0:vertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S6074743286067111160</j.0:vertexId>
+    <rdf:type rdf:resource="http://protege.stanford.edu/aif#SNode"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#A_to_S-205055880446608320">
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#ArauEdgeINodetoSNode"/>
+    <j.0:endVertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S-205055880446608320</j.0:endVertexId>
+    <j.0:startVertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</j.0:startVertexId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#A">
+    <j.0:locationY rdf:datatype="http://www.w3.org/2001/XMLSchema#double">192.0</j.0:locationY>
+    <j.0:hasRole rdf:resource="http://protege.stanford.edu/aif#ARole0"/>
+    <j.0:text rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The day-to-day travel decisions you make can have a real impact on making Scotland a cleaner, greener place to live   and they could also help you to be fitter, healthier, happier and wealthier</j.0:text>
+    <j.0:vertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</j.0:vertexId>
+    <j.0:locationX rdf:datatype="http://www.w3.org/2001/XMLSchema#double">90.0</j.0:locationX>
+    <j.0:textBoundsEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">315</j.0:textBoundsEnd>
+    <j.0:missing rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</j.0:missing>
+    <j.0:refutation rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</j.0:refutation>
+    <j.0:textBoundsStart rdf:datatype="http://www.w3.org/2001/XMLSchema#int">122</j.0:textBoundsStart>
+    <rdf:type rdf:resource="http://protege.stanford.edu/aif#INode"/>
+    <j.0:hasRole rdf:resource="http://protege.stanford.edu/aif#ARole1"/>
+    <j.0:hasRole rdf:resource="http://protege.stanford.edu/aif#ARole2"/>
+    <j.1:edgeTo rdf:resource="http://protege.stanford.edu/aif#S-205055880446608320"/>
+    <j.0:hasRole rdf:resource="http://protege.stanford.edu/aif#ARole3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#Default CA">
+    <j.1:hasConclusionDesc rdf:resource="http://protege.stanford.edu/aif#Default CAConclusion"/>
+    <j.1:hasSchemeName>Default CA</j.1:hasSchemeName>
+    <rdf:type>Scheme</rdf:type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#S5107340411798071598_to_A">
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#ArauEdgeSNodetoINode"/>
+    <j.0:endVertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</j.0:endVertexId>
+    <j.0:startVertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S5107340411798071598</j.0:startVertexId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#CRole0">
+    <j.0:roleElement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">none</j.0:roleElement>
+    <j.0:roleClass rdf:datatype="http://www.w3.org/2001/XMLSchema#string">wigmoreFact</j.0:roleClass>
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#E">
+    <j.0:hasRole rdf:resource="http://protege.stanford.edu/aif#ERole3"/>
+    <j.0:locationY rdf:datatype="http://www.w3.org/2001/XMLSchema#double">192.0</j.0:locationY>
+    <j.0:refutation rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</j.0:refutation>
+    <j.0:locationX rdf:datatype="http://www.w3.org/2001/XMLSchema#double">360.0</j.0:locationX>
+    <j.0:hasRole rdf:resource="http://protege.stanford.edu/aif#ERole2"/>
+    <j.1:edgeTo rdf:resource="http://protege.stanford.edu/aif#S6074743286067111160"/>
+    <j.0:hasRole rdf:resource="http://protege.stanford.edu/aif#ERole1"/>
+    <j.0:hasRole rdf:resource="http://protege.stanford.edu/aif#ERole0"/>
+    <j.0:missing rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</j.0:missing>
+    <j.0:textBoundsStart rdf:datatype="http://www.w3.org/2001/XMLSchema#int">585</j.0:textBoundsStart>
+    <rdf:type rdf:resource="http://protege.stanford.edu/aif#INode"/>
+    <j.0:vertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">E</j.0:vertexId>
+    <j.0:textBoundsEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">618</j.0:textBoundsEnd>
+    <j.1:edgeTo rdf:resource="http://protege.stanford.edu/aif#S293608192903362254"/>
+    <j.0:text rdf:datatype="http://www.w3.org/2001/XMLSchema#string">active travel has many benefits.&#xD;</j.0:text>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#GRole0">
+    <j.0:roleElement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">none</j.0:roleElement>
+    <j.0:roleClass rdf:datatype="http://www.w3.org/2001/XMLSchema#string">wigmoreFact</j.0:roleClass>
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#FRole3">
+    <j.0:roleElement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">evidenceTestAffirm</j.0:roleElement>
+    <j.0:roleClass rdf:datatype="http://www.w3.org/2001/XMLSchema#string">wigmore</j.0:roleClass>
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#ERole2">
+    <j.0:roleElement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">data</j.0:roleElement>
+    <j.0:roleClass rdf:datatype="http://www.w3.org/2001/XMLSchema#string">toulmin</j.0:roleClass>
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#473b534c9f8851f0:-1affc566:14c28ff9702:-7ff5">
+    <j.1:argInfoText>Greener Scotland (http://www.greenerscotland.org/greener-travel)&#xD;
+Text on Greener Travel extracted on 24th February 2015&#xD;
+The day-to-day travel decisions you make can have a real impact on making Scotland a cleaner, greener place to live   and they could also help you to be fitter, healthier, happier and wealthier. If it s not far, leave the car, and choose active travel options like cycling or walking instead. Walking is one of the best ways to clear your head and reduce stress.  Whether you are planning your thoughts for the day ahead or walking away the stresses of the day   active travel has many benefits.&#xD;
+[Picture and link to Journeys app]&#xD;
+Mile for mile, it s the shorter journeys by car that do the most damage to the environment. But with a little forward planning, most of these journeys could be walked. By leaving the car, you won t just cut carbon emissions and help the environment. All the evidence says you ll feel better for it too.&#xD;
+[Video   Not Far? Leave the Car!]&#xD;
+Did you know that children concentrate better for up to four hours after walking to school?&#xD;
+One in three car journeys in Scotland are less than 2 miles. Most of these are routine trips to run errands, post a letter or do the school run. If it s not far, leave the car   and the benefits will soon mount up. Choosing active travel is as good for your health and wealth as it is for the places we live.&#xD;
+</j.1:argInfoText>
+    <rdf:type rdf:resource="http://protege.stanford.edu/aif#ArgInfo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#ARole1">
+    <j.0:roleElement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">no</j.0:roleElement>
+    <j.0:roleClass rdf:datatype="http://www.w3.org/2001/XMLSchema#string">addedNegation</j.0:roleClass>
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#CRole3">
+    <j.0:roleElement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">evidenceTestAffirm</j.0:roleElement>
+    <j.0:roleClass rdf:datatype="http://www.w3.org/2001/XMLSchema#string">wigmore</j.0:roleClass>
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#H">
+    <j.0:vertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">H</j.0:vertexId>
+    <j.0:hasRole rdf:resource="http://protege.stanford.edu/aif#HRole1"/>
+    <rdf:type rdf:resource="http://protege.stanford.edu/aif#INode"/>
+    <j.0:hasRole rdf:resource="http://protege.stanford.edu/aif#HRole2"/>
+    <j.0:missing rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</j.0:missing>
+    <j.0:hasRole rdf:resource="http://protege.stanford.edu/aif#HRole0"/>
+    <j.0:locationY rdf:datatype="http://www.w3.org/2001/XMLSchema#double">319.0</j.0:locationY>
+    <j.0:hasRole rdf:resource="http://protege.stanford.edu/aif#HRole3"/>
+    <j.0:locationX rdf:datatype="http://www.w3.org/2001/XMLSchema#double">450.0</j.0:locationX>
+    <j.0:textBoundsEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1083</j.0:textBoundsEnd>
+    <j.0:refutation rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</j.0:refutation>
+    <j.0:text rdf:datatype="http://www.w3.org/2001/XMLSchema#string">children concentrate better for up to four hours after walking to schoo</j.0:text>
+    <j.0:textBoundsStart rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1012</j.0:textBoundsStart>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#DRole2">
+    <j.0:roleElement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">data</j.0:roleElement>
+    <j.0:roleClass rdf:datatype="http://www.w3.org/2001/XMLSchema#string">toulmin</j.0:roleClass>
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#C_to_S-601440586749832216">
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#ArauEdgeINodetoSNode"/>
+    <j.0:endVertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S-601440586749832216</j.0:endVertexId>
+    <j.0:startVertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</j.0:startVertexId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#S-8359199474229429338">
+    <j.0:schemeName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Default</j.0:schemeName>
+    <j.1:edgeTo rdf:resource="http://protege.stanford.edu/aif#E"/>
+    <j.0:locationY rdf:datatype="http://www.w3.org/2001/XMLSchema#double">145.0</j.0:locationY>
+    <j.0:locationX rdf:datatype="http://www.w3.org/2001/XMLSchema#double">315.0</j.0:locationX>
+    <j.0:vertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S-8359199474229429338</j.0:vertexId>
+    <rdf:type rdf:resource="http://protege.stanford.edu/aif#SNode"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#S5107340411798071598">
+    <j.0:schemeName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Default</j.0:schemeName>
+    <j.1:edgeTo rdf:resource="http://protege.stanford.edu/aif#A"/>
+    <j.0:locationY rdf:datatype="http://www.w3.org/2001/XMLSchema#double">145.0</j.0:locationY>
+    <j.0:locationX rdf:datatype="http://www.w3.org/2001/XMLSchema#double">180.0</j.0:locationX>
+    <j.0:vertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S5107340411798071598</j.0:vertexId>
+    <rdf:type rdf:resource="http://protege.stanford.edu/aif#SNode"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#BRole0">
+    <j.0:roleElement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">none</j.0:roleElement>
+    <j.0:roleClass rdf:datatype="http://www.w3.org/2001/XMLSchema#string">wigmoreFact</j.0:roleClass>
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#HRole1">
+    <j.0:roleElement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">no</j.0:roleElement>
+    <j.0:roleClass rdf:datatype="http://www.w3.org/2001/XMLSchema#string">addedNegation</j.0:roleClass>
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#D">
+    <j.0:hasRole rdf:resource="http://protege.stanford.edu/aif#DRole0"/>
+    <j.0:textBoundsStart rdf:datatype="http://www.w3.org/2001/XMLSchema#int">415</j.0:textBoundsStart>
+    <j.0:hasRole rdf:resource="http://protege.stanford.edu/aif#DRole3"/>
+    <j.0:vertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">D</j.0:vertexId>
+    <j.0:text rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Walking is one of the best ways to clear your head and reduce stress.</j.0:text>
+    <j.0:hasRole rdf:resource="http://protege.stanford.edu/aif#DRole2"/>
+    <j.0:missing rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</j.0:missing>
+    <j.0:locationX rdf:datatype="http://www.w3.org/2001/XMLSchema#double">270.0</j.0:locationX>
+    <j.0:textBoundsEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">484</j.0:textBoundsEnd>
+    <j.0:refutation rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</j.0:refutation>
+    <rdf:type rdf:resource="http://protege.stanford.edu/aif#INode"/>
+    <j.0:locationY rdf:datatype="http://www.w3.org/2001/XMLSchema#double">319.0</j.0:locationY>
+    <j.0:hasRole rdf:resource="http://protege.stanford.edu/aif#DRole1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#GRole3">
+    <j.0:roleElement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">evidenceTestAffirm</j.0:roleElement>
+    <j.0:roleClass rdf:datatype="http://www.w3.org/2001/XMLSchema#string">wigmore</j.0:roleClass>
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#FRole0">
+    <j.0:roleElement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">none</j.0:roleElement>
+    <j.0:roleClass rdf:datatype="http://www.w3.org/2001/XMLSchema#string">wigmoreFact</j.0:roleClass>
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#ERole1">
+    <j.0:roleElement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">no</j.0:roleElement>
+    <j.0:roleClass rdf:datatype="http://www.w3.org/2001/XMLSchema#string">addedNegation</j.0:roleClass>
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#IRole0">
+    <j.0:roleElement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">none</j.0:roleElement>
+    <j.0:roleClass rdf:datatype="http://www.w3.org/2001/XMLSchema#string">wigmoreFact</j.0:roleClass>
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#S-6204569685699433488">
+    <j.0:schemeName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Default</j.0:schemeName>
+    <j.1:edgeTo rdf:resource="http://protege.stanford.edu/aif#F"/>
+    <j.0:locationY rdf:datatype="http://www.w3.org/2001/XMLSchema#double">145.0</j.0:locationY>
+    <j.0:locationX rdf:datatype="http://www.w3.org/2001/XMLSchema#double">675.0</j.0:locationX>
+    <j.0:vertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S-6204569685699433488</j.0:vertexId>
+    <rdf:type rdf:resource="http://protege.stanford.edu/aif#SNode"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#ARole2">
+    <j.0:roleElement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">data</j.0:roleElement>
+    <j.0:roleClass rdf:datatype="http://www.w3.org/2001/XMLSchema#string">toulmin</j.0:roleClass>
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#JRole3">
+    <j.0:roleElement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">evidenceTestAffirm</j.0:roleElement>
+    <j.0:roleClass rdf:datatype="http://www.w3.org/2001/XMLSchema#string">wigmore</j.0:roleClass>
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#IRole1">
+    <j.0:roleElement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">no</j.0:roleElement>
+    <j.0:roleClass rdf:datatype="http://www.w3.org/2001/XMLSchema#string">addedNegation</j.0:roleClass>
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#DRole3">
+    <j.0:roleElement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">evidenceTestAffirm</j.0:roleElement>
+    <j.0:roleClass rdf:datatype="http://www.w3.org/2001/XMLSchema#string">wigmore</j.0:roleClass>
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#S293608192903362254">
+    <j.0:schemeName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Default</j.0:schemeName>
+    <j.1:edgeTo rdf:resource="http://protege.stanford.edu/aif#D"/>
+    <j.0:locationY rdf:datatype="http://www.w3.org/2001/XMLSchema#double">255.5</j.0:locationY>
+    <j.0:locationX rdf:datatype="http://www.w3.org/2001/XMLSchema#double">315.0</j.0:locationX>
+    <j.0:vertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S293608192903362254</j.0:vertexId>
+    <rdf:type rdf:resource="http://protege.stanford.edu/aif#SNode"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#C">
+    <j.0:hasRole rdf:resource="http://protege.stanford.edu/aif#CRole2"/>
+    <j.0:locationX rdf:datatype="http://www.w3.org/2001/XMLSchema#double">450.0</j.0:locationX>
+    <j.0:textBoundsStart rdf:datatype="http://www.w3.org/2001/XMLSchema#int">317</j.0:textBoundsStart>
+    <j.0:refutation rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</j.0:refutation>
+    <j.0:missing rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</j.0:missing>
+    <j.1:edgeTo rdf:resource="http://protege.stanford.edu/aif#S-601440586749832216"/>
+    <j.0:locationY rdf:datatype="http://www.w3.org/2001/XMLSchema#double">15.0</j.0:locationY>
+    <rdf:type rdf:resource="http://protege.stanford.edu/aif#INode"/>
+    <j.1:edgeTo rdf:resource="http://protege.stanford.edu/aif#S5909139107942409083"/>
+    <j.0:hasRole rdf:resource="http://protege.stanford.edu/aif#CRole3"/>
+    <j.0:textBoundsEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">413</j.0:textBoundsEnd>
+    <j.0:text rdf:datatype="http://www.w3.org/2001/XMLSchema#string">If it s not far, leave the car, and choose active travel options like cycling or walking instead</j.0:text>
+    <j.0:vertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</j.0:vertexId>
+    <j.0:hasRole rdf:resource="http://protege.stanford.edu/aif#CRole0"/>
+    <j.0:hasRole rdf:resource="http://protege.stanford.edu/aif#CRole1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#BRole1">
+    <j.0:roleElement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">no</j.0:roleElement>
+    <j.0:roleClass rdf:datatype="http://www.w3.org/2001/XMLSchema#string">addedNegation</j.0:roleClass>
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#Default CAConclusion">
+    <j.1:hasDescription>Default conclusion</j.1:hasDescription>
+    <rdf:type>ConclusionDesc</rdf:type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#HRole0">
+    <j.0:roleElement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">none</j.0:roleElement>
+    <j.0:roleClass rdf:datatype="http://www.w3.org/2001/XMLSchema#string">wigmoreFact</j.0:roleClass>
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#G">
+    <j.0:locationY rdf:datatype="http://www.w3.org/2001/XMLSchema#double">192.0</j.0:locationY>
+    <j.0:text rdf:datatype="http://www.w3.org/2001/XMLSchema#string">leaving the car, you won t just cut carbon emissions</j.0:text>
+    <rdf:type rdf:resource="http://protege.stanford.edu/aif#INode"/>
+    <j.0:hasRole rdf:resource="http://protege.stanford.edu/aif#GRole2"/>
+    <j.0:hasRole rdf:resource="http://protege.stanford.edu/aif#GRole3"/>
+    <j.0:textBoundsStart rdf:datatype="http://www.w3.org/2001/XMLSchema#int">826</j.0:textBoundsStart>
+    <j.0:missing rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</j.0:missing>
+    <j.0:hasRole rdf:resource="http://protege.stanford.edu/aif#GRole1"/>
+    <j.0:vertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">G</j.0:vertexId>
+    <j.0:hasRole rdf:resource="http://protege.stanford.edu/aif#GRole0"/>
+    <j.0:locationX rdf:datatype="http://www.w3.org/2001/XMLSchema#double">810.0</j.0:locationX>
+    <j.0:refutation rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</j.0:refutation>
+    <j.0:textBoundsEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">878</j.0:textBoundsEnd>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#CRole2">
+    <j.0:roleElement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">data</j.0:roleElement>
+    <j.0:roleClass rdf:datatype="http://www.w3.org/2001/XMLSchema#string">toulmin</j.0:roleClass>
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#S-205055880446608320">
+    <j.0:schemeName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Default</j.0:schemeName>
+    <j.1:edgeTo rdf:resource="http://protege.stanford.edu/aif#B"/>
+    <j.0:locationY rdf:datatype="http://www.w3.org/2001/XMLSchema#double">255.5</j.0:locationY>
+    <j.0:locationX rdf:datatype="http://www.w3.org/2001/XMLSchema#double">90.0</j.0:locationX>
+    <j.0:vertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S-205055880446608320</j.0:vertexId>
+    <rdf:type rdf:resource="http://protege.stanford.edu/aif#SNode"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#GRole2">
+    <j.0:roleElement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">data</j.0:roleElement>
+    <j.0:roleClass rdf:datatype="http://www.w3.org/2001/XMLSchema#string">toulmin</j.0:roleClass>
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#FRole1">
+    <j.0:roleElement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">no</j.0:roleElement>
+    <j.0:roleClass rdf:datatype="http://www.w3.org/2001/XMLSchema#string">addedNegation</j.0:roleClass>
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#S1501559233439182685_to_G">
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#ArauEdgeSNodetoINode"/>
+    <j.0:endVertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">G</j.0:endVertexId>
+    <j.0:startVertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S1501559233439182685</j.0:startVertexId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#S-205055880446608320_to_B">
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#ArauEdgeSNodetoINode"/>
+    <j.0:endVertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</j.0:endVertexId>
+    <j.0:startVertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S-205055880446608320</j.0:startVertexId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#I_to_S1501559233439182685">
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#ArauEdgeINodetoSNode"/>
+    <j.0:endVertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S1501559233439182685</j.0:endVertexId>
+    <j.0:startVertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">I</j.0:startVertexId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#ARole3">
+    <j.0:roleElement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">evidenceTestAffirm</j.0:roleElement>
+    <j.0:roleClass rdf:datatype="http://www.w3.org/2001/XMLSchema#string">wigmore</j.0:roleClass>
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#JRole2">
+    <j.0:roleElement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">data</j.0:roleElement>
+    <j.0:roleClass rdf:datatype="http://www.w3.org/2001/XMLSchema#string">toulmin</j.0:roleClass>
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#ERole0">
+    <j.0:roleElement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">none</j.0:roleElement>
+    <j.0:roleClass rdf:datatype="http://www.w3.org/2001/XMLSchema#string">wigmoreFact</j.0:roleClass>
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#S-8359199474229429338_to_E">
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#ArauEdgeSNodetoINode"/>
+    <j.0:endVertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">E</j.0:endVertexId>
+    <j.0:startVertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S-8359199474229429338</j.0:startVertexId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#JRole1">
+    <j.0:roleElement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">no</j.0:roleElement>
+    <j.0:roleClass rdf:datatype="http://www.w3.org/2001/XMLSchema#string">addedNegation</j.0:roleClass>
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#J">
+    <j.0:hasRole rdf:resource="http://protege.stanford.edu/aif#JRole3"/>
+    <j.0:vertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J</j.0:vertexId>
+    <j.0:locationY rdf:datatype="http://www.w3.org/2001/XMLSchema#double">98.0</j.0:locationY>
+    <j.0:hasRole rdf:resource="http://protege.stanford.edu/aif#JRole1"/>
+    <j.0:text rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Choosing active travel is as good for your health and wealth as it is for the places we live.&#xD;</j.0:text>
+    <j.0:textBoundsStart rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1302</j.0:textBoundsStart>
+    <j.0:hasRole rdf:resource="http://protege.stanford.edu/aif#JRole2"/>
+    <j.0:missing rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</j.0:missing>
+    <j.0:hasRole rdf:resource="http://protege.stanford.edu/aif#JRole0"/>
+    <j.0:refutation rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</j.0:refutation>
+    <j.1:edgeTo rdf:resource="http://protege.stanford.edu/aif#S5107340411798071598"/>
+    <j.0:locationX rdf:datatype="http://www.w3.org/2001/XMLSchema#double">270.0</j.0:locationX>
+    <j.0:textBoundsEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1396</j.0:textBoundsEnd>
+    <j.1:edgeTo rdf:resource="http://protege.stanford.edu/aif#S-8359199474229429338"/>
+    <rdf:type rdf:resource="http://protege.stanford.edu/aif#INode"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#J_to_S-8359199474229429338">
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#ArauEdgeINodetoSNode"/>
+    <j.0:endVertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S-8359199474229429338</j.0:endVertexId>
+    <j.0:startVertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J</j.0:startVertexId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#S5909139107942409083_to_I">
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#ArauEdgeSNodetoINode"/>
+    <j.0:endVertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">I</j.0:endVertexId>
+    <j.0:startVertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S5909139107942409083</j.0:startVertexId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#IRole2">
+    <j.0:roleElement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">data</j.0:roleElement>
+    <j.0:roleClass rdf:datatype="http://www.w3.org/2001/XMLSchema#string">toulmin</j.0:roleClass>
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#BRole2">
+    <j.0:roleElement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">data</j.0:roleElement>
+    <j.0:roleClass rdf:datatype="http://www.w3.org/2001/XMLSchema#string">toulmin</j.0:roleClass>
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#C_to_S5909139107942409083">
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#ArauEdgeINodetoSNode"/>
+    <j.0:endVertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S5909139107942409083</j.0:endVertexId>
+    <j.0:startVertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</j.0:startVertexId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#DRole0">
+    <j.0:roleElement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">none</j.0:roleElement>
+    <j.0:roleClass rdf:datatype="http://www.w3.org/2001/XMLSchema#string">wigmoreFact</j.0:roleClass>
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#DefaultConclusion">
+    <j.1:hasDescription>Default conclusion</j.1:hasDescription>
+    <rdf:type>ConclusionDesc</rdf:type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#S-601440586749832216_to_J">
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#ArauEdgeSNodetoINode"/>
+    <j.0:endVertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J</j.0:endVertexId>
+    <j.0:startVertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S-601440586749832216</j.0:startVertexId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#S6074743286067111160_to_H">
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#ArauEdgeSNodetoINode"/>
+    <j.0:endVertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">H</j.0:endVertexId>
+    <j.0:startVertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S6074743286067111160</j.0:startVertexId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#B">
+    <j.0:textBoundsStart rdf:datatype="http://www.w3.org/2001/XMLSchema#int">-1</j.0:textBoundsStart>
+    <j.0:locationY rdf:datatype="http://www.w3.org/2001/XMLSchema#double">319.0</j.0:locationY>
+    <j.0:refutation rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</j.0:refutation>
+    <j.0:vertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</j.0:vertexId>
+    <j.0:textBoundsEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">115</j.0:textBoundsEnd>
+    <j.0:hasRole rdf:resource="http://protege.stanford.edu/aif#BRole3"/>
+    <j.0:hasRole rdf:resource="http://protege.stanford.edu/aif#BRole2"/>
+    <j.0:text rdf:datatype="http://www.w3.org/2001/XMLSchema#string">At the aggregate level, individual decisions make a difference to outcomes at both the national and individual level</j.0:text>
+    <j.0:hasRole rdf:resource="http://protege.stanford.edu/aif#BRole0"/>
+    <j.0:missing rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</j.0:missing>
+    <j.0:locationX rdf:datatype="http://www.w3.org/2001/XMLSchema#double">90.0</j.0:locationX>
+    <j.0:hasRole rdf:resource="http://protege.stanford.edu/aif#BRole1"/>
+    <rdf:type rdf:resource="http://protege.stanford.edu/aif#INode"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#HRole3">
+    <j.0:roleElement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">evidenceTestAffirm</j.0:roleElement>
+    <j.0:roleClass rdf:datatype="http://www.w3.org/2001/XMLSchema#string">wigmore</j.0:roleClass>
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#E_to_S6074743286067111160">
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#ArauEdgeINodetoSNode"/>
+    <j.0:endVertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S6074743286067111160</j.0:endVertexId>
+    <j.0:startVertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">E</j.0:startVertexId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#F">
+    <j.0:hasRole rdf:resource="http://protege.stanford.edu/aif#FRole1"/>
+    <j.0:hasRole rdf:resource="http://protege.stanford.edu/aif#FRole3"/>
+    <j.0:hasRole rdf:resource="http://protege.stanford.edu/aif#FRole2"/>
+    <j.0:hasRole rdf:resource="http://protege.stanford.edu/aif#FRole0"/>
+    <j.0:textBoundsStart rdf:datatype="http://www.w3.org/2001/XMLSchema#int">655</j.0:textBoundsStart>
+    <j.0:locationX rdf:datatype="http://www.w3.org/2001/XMLSchema#double">630.0</j.0:locationX>
+    <j.0:refutation rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</j.0:refutation>
+    <j.0:text rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mile for mile, it s the shorter journeys by car that do the most damage to the environment.</j.0:text>
+    <rdf:type rdf:resource="http://protege.stanford.edu/aif#INode"/>
+    <j.0:missing rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</j.0:missing>
+    <j.0:textBoundsEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">746</j.0:textBoundsEnd>
+    <j.0:vertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F</j.0:vertexId>
+    <j.0:locationY rdf:datatype="http://www.w3.org/2001/XMLSchema#double">192.0</j.0:locationY>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#J_to_S5107340411798071598">
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#ArauEdgeINodetoSNode"/>
+    <j.0:endVertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S5107340411798071598</j.0:endVertexId>
+    <j.0:startVertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J</j.0:startVertexId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#CRole1">
+    <j.0:roleElement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">no</j.0:roleElement>
+    <j.0:roleClass rdf:datatype="http://www.w3.org/2001/XMLSchema#string">addedNegation</j.0:roleClass>
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#S1501559233439182685">
+    <j.0:schemeName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Default</j.0:schemeName>
+    <j.1:edgeTo rdf:resource="http://protege.stanford.edu/aif#G"/>
+    <j.0:locationY rdf:datatype="http://www.w3.org/2001/XMLSchema#double">145.0</j.0:locationY>
+    <j.0:locationX rdf:datatype="http://www.w3.org/2001/XMLSchema#double">765.0</j.0:locationX>
+    <j.0:vertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S1501559233439182685</j.0:vertexId>
+    <rdf:type rdf:resource="http://protege.stanford.edu/aif#SNode"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#ARole0">
+    <j.0:roleElement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">none</j.0:roleElement>
+    <j.0:roleClass rdf:datatype="http://www.w3.org/2001/XMLSchema#string">wigmoreFact</j.0:roleClass>
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#FRole2">
+    <j.0:roleElement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">data</j.0:roleElement>
+    <j.0:roleClass rdf:datatype="http://www.w3.org/2001/XMLSchema#string">toulmin</j.0:roleClass>
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#GRole1">
+    <j.0:roleElement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">no</j.0:roleElement>
+    <j.0:roleClass rdf:datatype="http://www.w3.org/2001/XMLSchema#string">addedNegation</j.0:roleClass>
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#I_to_S-6204569685699433488">
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#ArauEdgeINodetoSNode"/>
+    <j.0:endVertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S-6204569685699433488</j.0:endVertexId>
+    <j.0:startVertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">I</j.0:startVertexId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#Default">
+    <j.1:hasConclusionDesc rdf:resource="http://protege.stanford.edu/aif#DefaultConclusion"/>
+    <j.1:hasSchemeName>Default</j.1:hasSchemeName>
+    <rdf:type>Scheme</rdf:type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#S-601440586749832216">
+    <j.0:schemeName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Default</j.0:schemeName>
+    <j.1:edgeTo rdf:resource="http://protege.stanford.edu/aif#J"/>
+    <j.0:locationY rdf:datatype="http://www.w3.org/2001/XMLSchema#double">56.5</j.0:locationY>
+    <j.0:locationX rdf:datatype="http://www.w3.org/2001/XMLSchema#double">360.0</j.0:locationX>
+    <j.0:vertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S-601440586749832216</j.0:vertexId>
+    <rdf:type rdf:resource="http://protege.stanford.edu/aif#SNode"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#E_to_S293608192903362254">
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#ArauEdgeINodetoSNode"/>
+    <j.0:endVertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S293608192903362254</j.0:endVertexId>
+    <j.0:startVertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">E</j.0:startVertexId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#ERole3">
+    <j.0:roleElement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">evidenceTestAffirm</j.0:roleElement>
+    <j.0:roleClass rdf:datatype="http://www.w3.org/2001/XMLSchema#string">wigmore</j.0:roleClass>
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://protege.stanford.edu/aif#S-6204569685699433488_to_F">
+    <rdf:type rdf:resource="http://www.owl-ontologies.com/araucaria4#ArauEdgeSNodetoINode"/>
+    <j.0:endVertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F</j.0:endVertexId>
+    <j.0:startVertexId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S-6204569685699433488</j.0:startVertexId>
+  </rdf:Description>
+</rdf:RDF>

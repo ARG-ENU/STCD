@@ -1,0 +1,5 @@
+"guid":"6eb735e7-454c-4c26-a87c-1da2cac249d3"
+"datetime":"2015-02-24T15:15:00"
+"url":"http://www.greenerscotland.org/greener-travel/public-transport"
+"analyst-name":""
+"analyst-email":""

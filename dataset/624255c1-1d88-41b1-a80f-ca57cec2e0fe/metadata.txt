@@ -1,0 +1,5 @@
+"guid":"624255c1-1d88-41b1-a80f-ca57cec2e0fe"
+"datetime":"2015-04-21T11:08:48.31389"
+"url":"http://www.get-about.com/rail.asp"
+"analyst-name":""
+"analyst-email":""

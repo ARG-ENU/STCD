@@ -1,0 +1,5 @@
+"guid":"3c608a52-fa02-496b-a840-5c43cc410b86"
+"datetime":"2015-04-21T12:32:14.082244"
+"url":"http://walkit.com/walking-to-work/"
+"analyst-name":""
+"analyst-email":""

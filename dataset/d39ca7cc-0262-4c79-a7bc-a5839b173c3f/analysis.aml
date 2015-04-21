@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ARG SYSTEM "argument.dtd">
+<ARG>
+  <?Araucaria UTF-8?>
+  <SCHEMESET/>
+  <TEXT>Greener Scotland (http://www.greenerscotland.org/greener-travel)&#13;
+Text on Greener Travel extracted on 24th February 2015&#13;
+The day-to-day travel decisions you make can have a real impact on making Scotland a cleaner, greener place to live   and they could also help you to be fitter, healthier, happier and wealthier. If it s not far, leave the car, and choose active travel options like cycling or walking instead. Walking is one of the best ways to clear your head and reduce stress.  Whether you are planning your thoughts for the day ahead or walking away the stresses of the day   active travel has many benefits.&#13;
+[Picture and link to Journeys app]&#13;
+Mile for mile, it s the shorter journeys by car that do the most damage to the environment. But with a little forward planning, most of these journeys could be walked. By leaving the car, you won t just cut carbon emissions and help the environment. All the evidence says you ll feel better for it too.&#13;
+[Video   Not Far? Leave the Car!]&#13;
+Did you know that children concentrate better for up to four hours after walking to school?&#13;
+One in three car journeys in Scotland are less than 2 miles. Most of these are routine trips to run errands, post a letter or do the school run. If it s not far, leave the car   and the benefits will soon mount up. Choosing active travel is as good for your health and wealth as it is for the places we live.&#13;
+</TEXT>
+  <EDATA>
+    <AUTHOR>null</AUTHOR>
+    <DATE>2015-02-24</DATE>
+    <SOURCE/>
+    <COMMENTS/>
+  </EDATA>
+  <AU>
+    <PROP identifier="C" missing="no">
+      <PROPTEXT offset="317">If it s not far, leave the car, and choose active travel options like cycling or walking instead</PROPTEXT>
+      <ROLE class="wigmoreFact" element="none"/>
+      <ROLE class="addedNegation" element="no"/>
+      <ROLE class="toulmin" element="data"/>
+      <ROLE class="wigmore" element="evidenceTestAffirm"/>
+      <TUTOR end="0" start="0"/>
+    </PROP>
+    <CA>
+      <AU>
+        <PROP identifier="J" missing="no">
+          <PROPTEXT offset="1302">Choosing active travel is as good for your health and wealth as it is for the places we live.&#13;</PROPTEXT>
+          <ROLE class="wigmoreFact" element="none"/>
+          <ROLE class="addedNegation" element="no"/>
+          <ROLE class="toulmin" element="data"/>
+          <ROLE class="wigmore" element="evidenceTestAffirm"/>
+          <TUTOR end="0" start="0"/>
+        </PROP>
+        <CA>
+          <AU>
+            <PROP identifier="A" missing="no">
+              <PROPTEXT offset="122">The day-to-day travel decisions you make can have a real impact on making Scotland a cleaner, greener place to live   and they could also help you to be fitter, healthier, happier and wealthier</PROPTEXT>
+              <ROLE class="wigmoreFact" element="none"/>
+              <ROLE class="addedNegation" element="no"/>
+              <ROLE class="toulmin" element="data"/>
+              <ROLE class="wigmore" element="evidenceTestAffirm"/>
+              <TUTOR end="0" start="0"/>
+            </PROP>
+            <CA>
+              <AU>
+                <PROP identifier="B" missing="yes">
+                  <PROPTEXT offset="-1">At the aggregate level, individual decisions make a difference to outcomes at both the national and individual level</PROPTEXT>
+                  <ROLE class="wigmoreFact" element="none"/>
+                  <ROLE class="addedNegation" element="no"/>
+                  <ROLE class="toulmin" element="data"/>
+                  <ROLE class="wigmore" element="evidenceTestAffirm"/>
+                  <TUTOR end="0" start="0"/>
+                </PROP>
+              </AU>
+            </CA>
+          </AU>
+        </CA>
+        <CA>
+          <AU>
+            <PROP identifier="E" missing="no">
+              <PROPTEXT offset="585">active travel has many benefits.&#13;</PROPTEXT>
+              <ROLE class="wigmoreFact" element="none"/>
+              <ROLE class="addedNegation" element="no"/>
+              <ROLE class="toulmin" element="data"/>
+              <ROLE class="wigmore" element="evidenceTestAffirm"/>
+              <TUTOR end="0" start="0"/>
+            </PROP>
+            <CA>
+              <AU>
+                <PROP identifier="D" missing="no">
+                  <PROPTEXT offset="415">Walking is one of the best ways to clear your head and reduce stress.</PROPTEXT>
+                  <ROLE class="wigmoreFact" element="none"/>
+                  <ROLE class="addedNegation" element="no"/>
+                  <ROLE class="toulmin" element="data"/>
+                  <ROLE class="wigmore" element="evidenceTestAffirm"/>
+                  <TUTOR end="0" start="0"/>
+                </PROP>
+              </AU>
+            </CA>
+            <CA>
+              <AU>
+                <PROP identifier="H" missing="no">
+                  <PROPTEXT offset="1012">children concentrate better for up to four hours after walking to schoo</PROPTEXT>
+                  <ROLE class="wigmoreFact" element="none"/>
+                  <ROLE class="addedNegation" element="no"/>
+                  <ROLE class="toulmin" element="data"/>
+                  <ROLE class="wigmore" element="evidenceTestAffirm"/>
+                  <TUTOR end="0" start="0"/>
+                </PROP>
+              </AU>
+            </CA>
+          </AU>
+        </CA>
+      </AU>
+    </CA>
+    <CA>
+      <AU>
+        <PROP identifier="I" missing="no">
+          <PROPTEXT offset="1087">One in three car journeys in Scotland are less than 2 miles. </PROPTEXT>
+          <ROLE class="wigmoreFact" element="none"/>
+          <ROLE class="addedNegation" element="no"/>
+          <ROLE class="toulmin" element="data"/>
+          <ROLE class="wigmore" element="evidenceTestAffirm"/>
+          <TUTOR end="0" start="0"/>
+        </PROP>
+        <CA>
+          <AU>
+            <PROP identifier="F" missing="no">
+              <PROPTEXT offset="655">Mile for mile, it s the shorter journeys by car that do the most damage to the environment.</PROPTEXT>
+              <ROLE class="wigmoreFact" element="none"/>
+              <ROLE class="addedNegation" element="no"/>
+              <ROLE class="toulmin" element="data"/>
+              <ROLE class="wigmore" element="evidenceTestAffirm"/>
+              <TUTOR end="0" start="0"/>
+            </PROP>
+          </AU>
+        </CA>
+        <CA>
+          <AU>
+            <PROP identifier="G" missing="no">
+              <PROPTEXT offset="826">leaving the car, you won t just cut carbon emissions</PROPTEXT>
+              <ROLE class="wigmoreFact" element="none"/>
+              <ROLE class="addedNegation" element="no"/>
+              <ROLE class="toulmin" element="data"/>
+              <ROLE class="wigmore" element="evidenceTestAffirm"/>
+              <TUTOR end="0" start="0"/>
+            </PROP>
+          </AU>
+        </CA>
+      </AU>
+    </CA>
+  </AU>
+</ARG>

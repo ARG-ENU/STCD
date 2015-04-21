@@ -1,0 +1,5 @@
+"guid":"d39ca7cc-0262-4c79-a7bc-a5839b173c3f"
+"datetime":"2015-02-24T15:15:00"
+"url":"http://www.greenerscotland.org/greener-travel"
+"analyst-name":"Kate Pangbourne"
+"analyst-email":""

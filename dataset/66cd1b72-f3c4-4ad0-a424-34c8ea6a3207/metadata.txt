@@ -1,0 +1,5 @@
+"guid":"66cd1b72-f3c4-4ad0-a424-34c8ea6a3207"
+"datetime":"2015-04-21T11:24:04.617882"
+"url":"https://liftshare.com/content/info_faq.asp?skin=339#FAQ13"
+"analyst-name":""
+"analyst-email":""

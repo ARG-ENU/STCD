@@ -1,0 +1,5 @@
+"guid":"a955237a-95f4-4fb3-be70-e1433e6314ec"
+"datetime":"2015-04-21T12:30:43.503786"
+"url":"http://walkit.com/walking-for-health/"
+"analyst-name":""
+"analyst-email":""

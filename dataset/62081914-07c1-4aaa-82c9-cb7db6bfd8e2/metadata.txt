@@ -1,0 +1,5 @@
+"guid":"62081914-07c1-4aaa-82c9-cb7db6bfd8e2"
+"datetime":"2015-04-21T11:02:27.126108"
+"url":"http://www.get-about.com/travel_choices.asp"
+"analyst-name":""
+"analyst-email":""

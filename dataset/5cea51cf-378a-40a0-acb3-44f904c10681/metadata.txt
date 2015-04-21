@@ -1,0 +1,5 @@
+"guid":"5cea51cf-378a-40a0-acb3-44f904c10681"
+"datetime":"2015-04-21T12:12:23.805683"
+"url":"http://www.gosmartdumfries.co.uk/index.aspx?articleid=8488"
+"analyst-name":""
+"analyst-email":""

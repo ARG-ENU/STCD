@@ -1,0 +1,5 @@
+"guid":"3174adf0-ee55-4dd4-9540-4b6f110a54c4"
+"datetime":"2015-04-21T12:15:40.101567"
+"url":"http://www.take30.co.uk/take-30/take-30-introduction"
+"analyst-name":""
+"analyst-email":""

@@ -1,0 +1,5 @@
+"guid":"cd36418f-3d2a-4476-808a-3a4ddce18462"
+"datetime":"2015-04-21T12:53:43.004986"
+"url":"http://sustainablecitiescollective.com/embarq/259841/mobility-and-mood-does-your-commute-make-you-happy"
+"analyst-name":""
+"analyst-email":""

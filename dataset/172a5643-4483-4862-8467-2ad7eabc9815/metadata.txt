@@ -1,0 +1,5 @@
+"guid":"172a5643-4483-4862-8467-2ad7eabc9815"
+"datetime":"2015-04-21T11:06:33.145760"
+"url":"http://www.get-about.com/bus.asp"
+"analyst-name":""
+"analyst-email":""

@@ -1,0 +1,5 @@
+"guid":"f2b2ab31-0c6e-47a5-b4a8-ce7135117474"
+"datetime":"2015-04-21T11:05:15.596458"
+"url":"http://www.get-about.com/bicycle.asp"
+"analyst-name":""
+"analyst-email":""

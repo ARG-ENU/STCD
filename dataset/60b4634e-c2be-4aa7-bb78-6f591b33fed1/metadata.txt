@@ -1,0 +1,5 @@
+"guid":"60b4634e-c2be-4aa7-bb78-6f591b33fed1"
+"datetime":"2015-04-21T09:57:55.90928"
+"url":"http://www.greenerscotland.org/greener-travel/cycling"
+"analyst-name":""
+"analyst-email":""

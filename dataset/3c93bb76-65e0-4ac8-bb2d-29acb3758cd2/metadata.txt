@@ -1,0 +1,5 @@
+"guid":"3c93bb76-65e0-4ac8-bb2d-29acb3758cd2"
+"datetime":"2015-04-21T11:03:58.449340"
+"url":"http://www.get-about.com/walk.asp"
+"analyst-name":""
+"analyst-email":""

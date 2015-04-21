@@ -1,0 +1,5 @@
+"guid":"9ef54b0a-d7a1-46c3-9998-ef0919156615"
+"datetime":"2015-04-21T12:19:28.852410"
+"url":"http://www.take30.co.uk/take-30/walking-works-wonders"
+"analyst-name":""
+"analyst-email":""

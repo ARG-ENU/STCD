@@ -1,0 +1,5 @@
+"guid":"c8fc3de1-1da6-456d-be22-bfb29ffd0124"
+"datetime":"2015-04-21T11:07:42.935851"
+"url":"http://www.get-about.com/parkandride.asp"
+"analyst-name":""
+"analyst-email":""
