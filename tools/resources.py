@@ -5,9 +5,11 @@ import optparse as opt
 import os
 import uuid as u
 
+config_loc = "defaults.cfg"
+
 def init():
     config = cp.ConfigParser()
-    config_location = "defaults.cfg"
+    config_location = config_loc
     config.read(config_location)
     global user_name 
     user_name = config.get("user", "name")
@@ -47,13 +49,24 @@ if __name__ == "__main__":
 
     parser = opt.OptionParser()
     (options, args) = parser.parse_args()
-        
-    if len(args) > 0:
-        init()
+    if len(args) == 1:
         url = args[0]
         url = url.lower()
         url = validate_url(url)
+        init()
+        new_resource(url)
+    
+    elif len(args) == 2:
+        
+        url = args[0]
+        url = url.lower()
+        url = validate_url(url)
+
+        new_config = args[1]
+        config_loc = new_config
+
+        init()
         new_resource(url)
     else:
-        print "Usage: resources.py url"
+        print "Usage: resources.py url config_file"
     
