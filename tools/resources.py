@@ -47,7 +47,10 @@ def validate_url(url):
 
 if __name__ == "__main__":
 
-    parser = opt.OptionParser()
+    parser = opt.OptionParser(description="STCD Metadata Tool",
+        prog="resources.py",
+        version="0.1",
+        usage="python %prog [url] [config]")
     (options, args) = parser.parse_args()
     if len(args) == 1:
         url = args[0]
