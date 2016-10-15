@@ -23,4 +23,5 @@ $ python resources.py http://www.example.com simon.cfg
 ## ToDo
 
 * Tool to validate well-formedness of data - For example, to automatically test pull-requests for complete meta-data before performing a manual inspection.
+* Make it so that user supplied configs are read from the etc/config/folder
 
