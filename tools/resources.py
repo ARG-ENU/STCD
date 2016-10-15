@@ -6,6 +6,7 @@ import os
 import uuid as u
 
 def init(config_file):
+    print config_file
     config = cp.ConfigParser()
     config_location = config_file
     config.read(config_location)
@@ -42,7 +43,7 @@ def main():
         prog="resources.py",
         version="0.1",
         usage="python %prog [config] URL")
-    parser.add_option('--config', '-c', default="defaults.cfg")
+    parser.add_option('--config', '-c', default="etc/config/defaults.cfg")
     (options, args) = parser.parse_args()
 
     init(options.config)
@@ -54,3 +55,4 @@ def main():
 
 if __name__ == "__main__":
     main()    
+
