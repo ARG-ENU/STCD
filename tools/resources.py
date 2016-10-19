@@ -32,6 +32,7 @@ def new_resource(url):
     data = [guid_string, now_string, url_string, user_string, email_string]
 
     print path
+    print guid
 
     if not os.path.exists(path):
         os.makedirs(path)
