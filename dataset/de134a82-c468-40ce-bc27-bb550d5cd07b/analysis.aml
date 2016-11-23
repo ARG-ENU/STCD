@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ARG SYSTEM "argument.dtd">
+<ARG>
+  <?Araucaria UTF-8?>
+  <SCHEMESET/>
+  <TEXT>Think the plane is easier than the train? Think again!
+Want to get to London without the fuss? Don't get a plane – take the train. It's better every time.
+
+Plane pain*
+30 mins getting to an out of city airport
+60 mins of checking in &amp; security checks
+95 mins stuck in your airplane seat
+29 mins waiting for your checked-in bag
+50 mins taking the tube into town
+4hrs 24 mins 
+ARRIVE #FRAZZLED
+
+Train gain*
+0 mins getting to the city centre station
+5 mins to hop on board
+261 mins of maxin' and relaxing
+5 mins to grab your bag &amp; get off
+0 time at all to get to the city centre
+4hrs 31 mins
+ARRIVE #FRESHASADAISY
+
+Enjoy some instant relief from this plane pain with our special £15 one- way fares between Edinburgh and London King's Cross.
+Get your plane relief
+Journey times based on the following:
+Plane pain
+Travel from Waverley Bridge in Edinburgh city centre to airport by Airlink Service 100 or taxi is 30 mins approximately (http://www.edinburghairport.com/transport-links/buses-and-coaches and http://www.edinburghairport.com/transport-links/taxis)
+Airport checking in/security checks with 60 mins allowance time as recommended by Edinburgh Airport (Edinburgh Airport FAQs)
+Flight journey time 95 mins (Edinburgh Airport to Heathrow Airport (T5) via BA.com, 07.00 flight from Edinburgh, arrives 08.35)
+Waiting for luggage at London Heathrow airport is 29 mins (Daily Telegraph article published 14/05/14, timings based on research carried out by Sendmybag.com)
+Travel to central London out of rush hour is 50 mins (Heathrow Airport (T5) to Piccadilly Underground station via tfl.gov.uk)
+Train gain
+Edinburgh Waverley Station located at Waverley Bridge, in centre of Edinburgh, 0 mins to travel.
+Hop on board is 5 mins (Edinburgh Waverley station entrance to platforms)
+Average train journey time is 261 mins (Edinburgh Waverley Railway Station to London King's Cross) via virgintrainseastcoast.com)
+Hop off the train is 5 mins (average time allowance for passengers to collect bag and step off train) London King's Cross located in Central London, 0 mins to travel.
+        
+</TEXT>
+  <EDATA>
+    <AUTHOR>Simon Wells</AUTHOR>
+    <DATE>2016-11-23</DATE>
+    <SOURCE>Email communication from Virgin Eastcoast</SOURCE>
+    <COMMENTS/>
+  </EDATA>
+  <AU>
+    <PROP identifier="A" missing="no">
+      <PROPTEXT offset="95">Don't get a plane – take the train</PROPTEXT>
+      <ROLE class="wigmoreFact" element="none"/>
+      <ROLE class="addedNegation" element="no"/>
+      <ROLE class="toulmin" element="data"/>
+      <ROLE class="wigmore" element="evidenceTestAffirm"/>
+      <TUTOR end="0" start="0"/>
+    </PROP>
+    <CA>
+      <AU>
+        <PROP identifier="B" missing="no">
+          <PROPTEXT offset="131">It's better every time.</PROPTEXT>
+          <ROLE class="wigmoreFact" element="none"/>
+          <ROLE class="addedNegation" element="no"/>
+          <ROLE class="toulmin" element="data"/>
+          <ROLE class="wigmore" element="evidenceTestAffirm"/>
+          <TUTOR end="0" start="0"/>
+        </PROP>
+        <CA>
+          <AU>
+            <PROP identifier="C" missing="no">
+              <PROPTEXT offset="156">Plane pain</PROPTEXT>
+              <ROLE class="wigmoreFact" element="none"/>
+              <ROLE class="addedNegation" element="no"/>
+              <ROLE class="toulmin" element="data"/>
+              <ROLE class="wigmore" element="evidenceTestAffirm"/>
+              <TUTOR end="0" start="0"/>
+            </PROP>
+            <CA>
+              <AU>
+                <PROP identifier="J" missing="no">
+                  <PROPTEXT offset="375">ARRIVE #FRAZZLED</PROPTEXT>
+                  <ROLE class="wigmoreFact" element="none"/>
+                  <ROLE class="addedNegation" element="no"/>
+                  <ROLE class="toulmin" element="data"/>
+                  <ROLE class="wigmore" element="evidenceTestAffirm"/>
+                  <TUTOR end="0" start="0"/>
+                </PROP>
+                <CA>
+                  <AU>
+                    <PROP identifier="E" missing="no">
+                      <PROPTEXT offset="168">30 mins getting to an out of city airport</PROPTEXT>
+                      <ROLE class="wigmoreFact" element="none"/>
+                      <ROLE class="addedNegation" element="no"/>
+                      <ROLE class="toulmin" element="data"/>
+                      <ROLE class="wigmore" element="evidenceTestAffirm"/>
+                      <TUTOR end="0" start="0"/>
+                    </PROP>
+                    <CA>
+                      <AU>
+                        <PROP identifier="Q" missing="no">
+                          <PROPTEXT offset="809">Travel from Waverley Bridge in Edinburgh city centre to airport by Airlink Service 100 or taxi is 30 mins approximately (http://www.edinburghairport.com/transport-links/buses-and-coaches and http://www.edinburghairport.com/transport-links/taxis)</PROPTEXT>
+                          <ROLE class="wigmoreFact" element="none"/>
+                          <ROLE class="addedNegation" element="no"/>
+                          <ROLE class="toulmin" element="data"/>
+                          <ROLE class="wigmore" element="evidenceTestAffirm"/>
+                          <TUTOR end="0" start="0"/>
+                        </PROP>
+                      </AU>
+                    </CA>
+                  </AU>
+                </CA>
+                <CA>
+                  <AU>
+                    <PROP identifier="F" missing="no">
+                      <PROPTEXT offset="210">60 mins of checking in &amp; security checks</PROPTEXT>
+                      <ROLE class="wigmoreFact" element="none"/>
+                      <ROLE class="addedNegation" element="no"/>
+                      <ROLE class="toulmin" element="data"/>
+                      <ROLE class="wigmore" element="evidenceTestAffirm"/>
+                      <TUTOR end="0" start="0"/>
+                    </PROP>
+                    <CA>
+                      <AU>
+                        <PROP identifier="R" missing="no">
+                          <PROPTEXT offset="1055">Airport checking in/security checks with 60 mins allowance time as recommended by Edinburgh Airport (Edinburgh Airport FAQs)</PROPTEXT>
+                          <ROLE class="wigmoreFact" element="none"/>
+                          <ROLE class="addedNegation" element="no"/>
+                          <ROLE class="toulmin" element="data"/>
+                          <ROLE class="wigmore" element="evidenceTestAffirm"/>
+                          <TUTOR end="0" start="0"/>
+                        </PROP>
+                      </AU>
+                    </CA>
+                  </AU>
+                </CA>
+                <CA>
+                  <AU>
+                    <PROP identifier="G" missing="no">
+                      <PROPTEXT offset="251">95 mins stuck in your airplane seat</PROPTEXT>
+                      <ROLE class="wigmoreFact" element="none"/>
+                      <ROLE class="addedNegation" element="no"/>
+                      <ROLE class="toulmin" element="data"/>
+                      <ROLE class="wigmore" element="evidenceTestAffirm"/>
+                      <TUTOR end="0" start="0"/>
+                    </PROP>
+                    <CA>
+                      <AU>
+                        <PROP identifier="S" missing="no">
+                          <PROPTEXT offset="1180">Flight journey time 95 mins (Edinburgh Airport to Heathrow Airport (T5) via BA.com, 07.00 flight from Edinburgh, arrives 08.35)</PROPTEXT>
+                          <ROLE class="wigmoreFact" element="none"/>
+                          <ROLE class="addedNegation" element="no"/>
+                          <ROLE class="toulmin" element="data"/>
+                          <ROLE class="wigmore" element="evidenceTestAffirm"/>
+                          <TUTOR end="0" start="0"/>
+                        </PROP>
+                      </AU>
+                    </CA>
+                  </AU>
+                </CA>
+                <CA>
+                  <AU>
+                    <PROP identifier="H" missing="no">
+                      <PROPTEXT offset="287">29 mins waiting for your checked-in bag</PROPTEXT>
+                      <ROLE class="wigmoreFact" element="none"/>
+                      <ROLE class="addedNegation" element="no"/>
+                      <ROLE class="toulmin" element="data"/>
+                      <ROLE class="wigmore" element="evidenceTestAffirm"/>
+                      <TUTOR end="0" start="0"/>
+                    </PROP>
+                    <CA>
+                      <AU>
+                        <PROP identifier="T" missing="no">
+                          <PROPTEXT offset="1308">Waiting for luggage at London Heathrow airport is 29 mins (Daily Telegraph article published 14/05/14, timings based on research carried out by Sendmybag.com)</PROPTEXT>
+                          <ROLE class="wigmoreFact" element="none"/>
+                          <ROLE class="addedNegation" element="no"/>
+                          <ROLE class="toulmin" element="data"/>
+                          <ROLE class="wigmore" element="evidenceTestAffirm"/>
+                          <TUTOR end="0" start="0"/>
+                        </PROP>
+                      </AU>
+                    </CA>
+                  </AU>
+                </CA>
+                <CA>
+                  <AU>
+                    <PROP identifier="I" missing="no">
+                      <PROPTEXT offset="327">50 mins taking the tube into town</PROPTEXT>
+                      <ROLE class="wigmoreFact" element="none"/>
+                      <ROLE class="addedNegation" element="no"/>
+                      <ROLE class="toulmin" element="data"/>
+                      <ROLE class="wigmore" element="evidenceTestAffirm"/>
+                      <TUTOR end="0" start="0"/>
+                    </PROP>
+                    <CA>
+                      <AU>
+                        <PROP identifier="U" missing="no">
+                          <PROPTEXT offset="1467">Travel to central London out of rush hour is 50 mins (Heathrow Airport (T5) to Piccadilly Underground station via tfl.gov.uk)</PROPTEXT>
+                          <ROLE class="wigmoreFact" element="none"/>
+                          <ROLE class="addedNegation" element="no"/>
+                          <ROLE class="toulmin" element="data"/>
+                          <ROLE class="wigmore" element="evidenceTestAffirm"/>
+                          <TUTOR end="0" start="0"/>
+                        </PROP>
+                      </AU>
+                    </CA>
+                  </AU>
+                </CA>
+              </AU>
+            </CA>
+          </AU>
+        </CA>
+        <CA>
+          <AU>
+            <PROP identifier="D" missing="no">
+              <PROPTEXT offset="393">Train gain</PROPTEXT>
+              <ROLE class="wigmoreFact" element="none"/>
+              <ROLE class="addedNegation" element="no"/>
+              <ROLE class="toulmin" element="data"/>
+              <ROLE class="wigmore" element="evidenceTestAffirm"/>
+              <TUTOR end="0" start="0"/>
+            </PROP>
+            <CA>
+              <AU>
+                <PROP identifier="P" missing="no">
+                  <PROPTEXT offset="589">ARRIVE #FRESHASADAISY</PROPTEXT>
+                  <ROLE class="wigmoreFact" element="none"/>
+                  <ROLE class="addedNegation" element="no"/>
+                  <ROLE class="toulmin" element="data"/>
+                  <ROLE class="wigmore" element="evidenceTestAffirm"/>
+                  <TUTOR end="0" start="0"/>
+                </PROP>
+                <CA>
+                  <AU>
+                    <PROP identifier="K" missing="no">
+                      <PROPTEXT offset="405">0 mins getting to the city centre station</PROPTEXT>
+                      <ROLE class="wigmoreFact" element="none"/>
+                      <ROLE class="addedNegation" element="no"/>
+                      <ROLE class="toulmin" element="data"/>
+                      <ROLE class="wigmore" element="evidenceTestAffirm"/>
+                      <TUTOR end="0" start="0"/>
+                    </PROP>
+                    <CA>
+                      <AU>
+                        <PROP identifier="V" missing="no">
+                          <PROPTEXT offset="1604">Edinburgh Waverley Station located at Waverley Bridge, in centre of Edinburgh, 0 mins to travel.</PROPTEXT>
+                          <ROLE class="wigmoreFact" element="none"/>
+                          <ROLE class="addedNegation" element="no"/>
+                          <ROLE class="toulmin" element="data"/>
+                          <ROLE class="wigmore" element="evidenceTestAffirm"/>
+                          <TUTOR end="0" start="0"/>
+                        </PROP>
+                      </AU>
+                    </CA>
+                  </AU>
+                </CA>
+                <CA>
+                  <AU>
+                    <PROP identifier="L" missing="no">
+                      <PROPTEXT offset="447">5 mins to hop on board</PROPTEXT>
+                      <ROLE class="wigmoreFact" element="none"/>
+                      <ROLE class="addedNegation" element="no"/>
+                      <ROLE class="toulmin" element="data"/>
+                      <ROLE class="wigmore" element="evidenceTestAffirm"/>
+                      <TUTOR end="0" start="0"/>
+                    </PROP>
+                    <CA>
+                      <AU>
+                        <PROP identifier="W" missing="no">
+                          <PROPTEXT offset="1701">Hop on board is 5 mins (Edinburgh Waverley station entrance to platforms)</PROPTEXT>
+                          <ROLE class="wigmoreFact" element="none"/>
+                          <ROLE class="addedNegation" element="no"/>
+                          <ROLE class="toulmin" element="data"/>
+                          <ROLE class="wigmore" element="evidenceTestAffirm"/>
+                          <TUTOR end="0" start="0"/>
+                        </PROP>
+                      </AU>
+                    </CA>
+                  </AU>
+                </CA>
+                <CA>
+                  <AU>
+                    <PROP identifier="M" missing="no">
+                      <PROPTEXT offset="470">261 mins of maxin' and relaxing</PROPTEXT>
+                      <ROLE class="wigmoreFact" element="none"/>
+                      <ROLE class="addedNegation" element="no"/>
+                      <ROLE class="toulmin" element="data"/>
+                      <ROLE class="wigmore" element="evidenceTestAffirm"/>
+                      <TUTOR end="0" start="0"/>
+                    </PROP>
+                    <CA>
+                      <AU>
+                        <PROP identifier="X" missing="no">
+                          <PROPTEXT offset="1775">Average train journey time is 261 mins (Edinburgh Waverley Railway Station to London King's Cross) via virgintrainseastcoast.com)</PROPTEXT>
+                          <ROLE class="wigmoreFact" element="none"/>
+                          <ROLE class="addedNegation" element="no"/>
+                          <ROLE class="toulmin" element="data"/>
+                          <ROLE class="wigmore" element="evidenceTestAffirm"/>
+                          <TUTOR end="0" start="0"/>
+                        </PROP>
+                      </AU>
+                    </CA>
+                  </AU>
+                </CA>
+                <CA>
+                  <AU>
+                    <PROP identifier="N" missing="no">
+                      <PROPTEXT offset="502">5 mins to grab your bag &amp; get off</PROPTEXT>
+                      <ROLE class="wigmoreFact" element="none"/>
+                      <ROLE class="addedNegation" element="no"/>
+                      <ROLE class="toulmin" element="data"/>
+                      <ROLE class="wigmore" element="evidenceTestAffirm"/>
+                      <TUTOR end="0" start="0"/>
+                    </PROP>
+                    <CA>
+                      <AU>
+                        <PROP identifier="Y" missing="no">
+                          <PROPTEXT offset="1905">Hop off the train is 5 mins (average time allowance for passengers to collect bag and step off train)</PROPTEXT>
+                          <ROLE class="wigmoreFact" element="none"/>
+                          <ROLE class="addedNegation" element="no"/>
+                          <ROLE class="toulmin" element="data"/>
+                          <ROLE class="wigmore" element="evidenceTestAffirm"/>
+                          <TUTOR end="0" start="0"/>
+                        </PROP>
+                      </AU>
+                    </CA>
+                  </AU>
+                </CA>
+                <CA>
+                  <AU>
+                    <PROP identifier="O" missing="no">
+                      <PROPTEXT offset="536">0 time at all to get to the city centre</PROPTEXT>
+                      <ROLE class="wigmoreFact" element="none"/>
+                      <ROLE class="addedNegation" element="no"/>
+                      <ROLE class="toulmin" element="data"/>
+                      <ROLE class="wigmore" element="evidenceTestAffirm"/>
+                      <TUTOR end="0" start="0"/>
+                    </PROP>
+                    <CA>
+                      <AU>
+                        <PROP identifier="Z" missing="no">
+                          <PROPTEXT offset="2007">London King's Cross located in Central London, 0 mins to travel.</PROPTEXT>
+                          <ROLE class="wigmoreFact" element="none"/>
+                          <ROLE class="addedNegation" element="no"/>
+                          <ROLE class="toulmin" element="data"/>
+                          <ROLE class="wigmore" element="evidenceTestAffirm"/>
+                          <TUTOR end="0" start="0"/>
+                        </PROP>
+                      </AU>
+                    </CA>
+                  </AU>
+                </CA>
+              </AU>
+            </CA>
+          </AU>
+        </CA>
+      </AU>
+    </CA>
+  </AU>
+</ARG>
