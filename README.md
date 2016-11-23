@@ -25,3 +25,26 @@ $ python resources.py http://www.example.com simon.cfg
 * Tool to validate well-formedness of data - For example, to automatically test pull-requests for complete meta-data before performing a manual inspection.
 * Make it so that user supplied configs are read from the etc/config/folder
 
+## Citations
+
+If you use the STCD and wish to cite or otherwise make reference to it then please cite the following:
+
+```
+S. Wells & K. Pangbourne (2016) "Using Argumentation Within Sustainable Transport Communication"
+Argumentation and Reasoned Action, Proceedings of the 1st European Conference on Argumentation, Lisbon 2015, volume 1, Studies in Logic and Argumentation 62, chapter 34, pp. 781-801, College Publications.
+```
+or use the following bibtex fragment:
+
+```
+@incollection{wells_2016_eca+transport,
+    author = {Wells, S. and Pangbourne, K.},
+    booktitle = {Argumentation and Reasoned Action, Proceedings of the 1st European Conference on Argumentation, Lisbon 2015, volume 1},
+    title = {Using Argumentation Within Sustainable Transport Communication},
+    series = {Studies in Logic and Argumentation 62},
+    chapter = {34},
+    year = {2016},
+    pages = {781-801},
+    publisher = {College Publications}
+    }
+```
+
