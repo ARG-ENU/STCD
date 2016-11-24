@@ -1,5 +1,5 @@
 "guid":"de134a82-c468-40ce-bc27-bb550d5cd07b"
 "timestamp":"2016-10-19T10:10:10.326818"
-"url":"virgintrainseastcoast.com"
+"url":"http://links.e.virgintrainseastcoast.com/servlet/MailView?ms=ODM0MDA5S0&r=MTM0Njg4OTc3ODcS1&j=NjUwMDkyNDczS0&mt=1&rt=0"
 "name":"Simon Wells"
 "email":"s.wells@napier.ac.uk"
