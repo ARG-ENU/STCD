@@ -344,43 +344,29 @@
 </FORM>
 </SCHEME>
 </SCHEMESET>
-<TEXT>What is 2+ car sharing?&#13;
-&#13;
-2+ car sharing, not to be confused with car clubs, is also known as ride-sharing, carpooling or lift-sharing. It is based on the premise of two or more people sharing a journey. Carplus uses the term 2+ car sharing, as in the rest of the world car-sharing is synonymous with car clubs.&#13;
-&#13;
-2+carsharing&#13;
-How does 2+ car sharing work?&#13;
-&#13;
-2+ car sharing, i.e. when two or more people share a car and travel together, allows people to benefit from the convenience of the car, sharing travel costs, whilst alleviating the associated problems of congestion and pollution. Lift sharing can contribute to community cohesion, connecting people with shared interests or similar lifestyles.&#13;
-&#13;
-Online booking systems allow drivers to advertise trips, passengers seeking a lift can search for journeys. One of the people travelling usually owns the car and the other(s) will generally make a contribution towards fuel and other associated costs for journeys they are making in the same direction, on a regular or one-off basis. The passenger(s) can arrange a drop-off either on-route or at the driver’s destination.&#13;
-&#13;
-2+carsharinglane&#13;
-&#13;
-For more info see our FAQs page and our 2+ car sharing fact sheet downloadable here as a PDF.&#13;
-2+ car sharing providers&#13;
-&#13;
-There are several organisations that provide 2+ car sharing services on a national or area basis. These vary from operators that specialise in events-based travel and commuting-based 2+ car sharing, to services for employers on business parks or in town centres that are available to registered employees only.&#13;
-BlaBlaCar&#13;
-Carbon Heroes&#13;
-GoCarShare&#13;
-Liftshare&#13;
-Jambusters&#13;
-Carshare Online&#13;
-Driver Collect&#13;
-&#13;
-If you would like your organisation to be listed on this page, please contact Carplus.&#13;
+<TEXT>Fighting congestion&#13;
+-----------------------------&#13;
+The math is simple. One bus can replace a minimum of 30 cars on the road.&#13;
+Buses and coaches are therefore champions when it comes to reducing road congestion, thus urban air pollution and ultimately road accidents.&#13;
+Fewer cars means less congestion and less CO2 emissions! What a green deal!&#13;
+Working together to fight congestion &#13;
+--------------------------------------------------&#13;
+In Europe, thanks to the bus and coach industry's tremendous investment in new technology, noxious emissions such as carbon monoxide, hydrocarbons, nitrogen oxides and particulates, have been reduced by up to 98%!&#13;
+Moreover, Green innovation in tourism can drive sustainable development by reducing costs, boosting revenue, creating jobs and improving resource efficiency, but obstacles such as a lack of policy integration in tourism and transport must first be removed.&#13;
+Indeed, much more can be achieved if a spirit of partnership prevails between governments, competent authorities, businesses and coach operators, to implement pro-coach and bus policies, such as priority lanes and schemes, parking facilities and facilities for drivers, secure parking locations, suitable terminals and stops for scheduled services, etc. These are all essential pre-requisites for any serious anti-congestion policy.&#13;
+In this perspective, the IRU rewards every two years the most coach friendly municipal policies through its IRU City Trophy Award, in an effort to emulate such best practices worldwide.&#13;
+Click here&gt; to learn more about these and other Smart Awards!&#13;
 </TEXT>
 <EDATA>
 <AUTHOR>null</AUTHOR>
-<DATE>2016-11-29</DATE>
+<DATE>2017-01-01</DATE>
 <SOURCE></SOURCE>
 <COMMENTS></COMMENTS>
 </EDATA>
 <AU>
-<PROP identifier="J" missing="yes">
-<PROPTEXT offset="-1">You should try car sharing</PROPTEXT>
-<INSCHEME scheme=" Argument from Consequences " schid="0"/>
+<PROP identifier="K" missing="no">
+<PROPTEXT offset="662">Green innovation in tourism can drive sustainable development by reducing costs, boosting revenue, creating jobs and improving resource efficiency,</PROPTEXT>
+<INSCHEME scheme=" Argument from Cause to Effect " schid="0"/>
 <ROLE class="wigmoreFact" element="none"/>
 <ROLE class="addedNegation" element="no"/>
 <ROLE class="toulmin" element="data"/>
@@ -389,9 +375,10 @@ If you would like your organisation to be listed on this page, please contact Ca
 </PROP>
 <CA>
 <AU>
-<PROP identifier="E" missing="no">
-<PROPTEXT offset="528">alleviating the associated problems of congestion and pollution</PROPTEXT>
-<INSCHEME scheme=" Argument from Consequences " schid="0"/>
+<PROP identifier="J" missing="no">
+<PROPTEXT offset="1264">These are all essential pre-requisites for any serious anti-congestion policy.</PROPTEXT>
+<INSCHEME scheme=" Argument from Cause to Effect " schid="0"/>
+<INSCHEME scheme=" Argument from Commitment " schid="1"/>
 <ROLE class="wigmoreFact" element="none"/>
 <ROLE class="addedNegation" element="no"/>
 <ROLE class="toulmin" element="data"/>
@@ -400,11 +387,10 @@ If you would like your organisation to be listed on this page, please contact Ca
 </PROP>
 <CA>
 <AU>
-<PROP identifier="C" missing="no">
-<PROPTEXT offset="363">2+ car sharing, i.e. when two or more people share a car and travel together, allows people to benefit from the convenience of the car</PROPTEXT>
-<INSCHEME scheme=" Argument from Consequences " schid="0"/>
-<INSCHEME scheme=" Argument from Example " schid="1"/>
-<INSCHEME scheme=" Argument from Example " schid="2"/>
+<PROP identifier="I" missing="no">
+<PROPTEXT offset="814">obstacles such as a lack of policy integration in tourism and transport must first be removed.</PROPTEXT>
+<INSCHEME scheme=" Argument from Commitment " schid="1"/>
+<INSCHEME scheme=" Argument from Consequences " schid="2"/>
 <ROLE class="wigmoreFact" element="none"/>
 <ROLE class="addedNegation" element="no"/>
 <ROLE class="toulmin" element="data"/>
@@ -413,9 +399,10 @@ If you would like your organisation to be listed on this page, please contact Ca
 </PROP>
 <CA>
 <AU>
-<PROP identifier="D" missing="no">
-<PROPTEXT offset="499">sharing travel costs</PROPTEXT>
-<INSCHEME scheme=" Argument from Example " schid="2"/>
+<PROP identifier="H" missing="no">
+<PROPTEXT offset="1097">such as priority lanes and schemes, parking facilities and facilities for drivers, secure parking locations, suitable terminals and stops for scheduled services, etc.</PROPTEXT>
+<INSCHEME scheme=" Argument from Consequences " schid="2"/>
+<INSCHEME scheme=" Argument from Example " schid="3"/>
 <ROLE class="wigmoreFact" element="none"/>
 <ROLE class="addedNegation" element="no"/>
 <ROLE class="toulmin" element="data"/>
@@ -425,23 +412,32 @@ If you would like your organisation to be listed on this page, please contact Ca
 <CA>
 <AU>
 <PROP identifier="G" missing="no">
-<PROPTEXT offset="872">the other(s) will generally make a contribution towards fuel and other associated costs for journeys they are making in the same direction</PROPTEXT>
-<INSCHEME scheme=" Argument from Example " schid="2"/>
+<PROPTEXT offset="918">much more can be achieved if a spirit of partnership prevails between governments, competent authorities, businesses and coach operators</PROPTEXT>
+<INSCHEME scheme=" Argument from Example " schid="3"/>
+<INSCHEME scheme=" Argument from Evidence to a Hypothesis " schid="4"/>
 <ROLE class="wigmoreFact" element="none"/>
 <ROLE class="addedNegation" element="no"/>
 <ROLE class="toulmin" element="data"/>
 <ROLE class="wigmore" element="evidenceTestAffirm"/>
 <TUTOR end="0" start="0"/>
 </PROP>
-</AU>
-</CA>
-</AU>
-</CA>
 <CA>
 <AU>
 <PROP identifier="F" missing="no">
-<PROPTEXT offset="1043">The passenger(s) can arrange a drop-off either on-route or at the driver’s destination</PROPTEXT>
-<INSCHEME scheme=" Argument from Example " schid="1"/>
+<PROPTEXT offset="448">thanks to the bus and coach industry's tremendous investment in new technology</PROPTEXT>
+<INSCHEME scheme=" Argument from Evidence to a Hypothesis " schid="4"/>
+<INSCHEME scheme=" Argument from Cause to Effect " schid="5"/>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+<CA>
+<AU>
+<PROP identifier="E" missing="no">
+<PROPTEXT offset="528">noxious emissions such as carbon monoxide, hydrocarbons, nitrogen oxides and particulates, have been reduced by up to 98%!</PROPTEXT>
+<INSCHEME scheme=" Argument from Cause to Effect " schid="5"/>
 <ROLE class="wigmoreFact" element="none"/>
 <ROLE class="addedNegation" element="no"/>
 <ROLE class="toulmin" element="data"/>
@@ -454,11 +450,17 @@ If you would like your organisation to be listed on this page, please contact Ca
 </CA>
 </AU>
 </CA>
+</AU>
+</CA>
+</AU>
+</CA>
+</AU>
+</CA>
 <CA>
 <AU>
-<PROP identifier="I" missing="yes">
-<PROPTEXT offset="-1">Community cohesion is a desirable goal</PROPTEXT>
-<INSCHEME scheme=" Argument from Consequences " schid="3"/>
+<PROP identifier="D" missing="no">
+<PROPTEXT offset="212">thus urban air pollution and ultimately road accidents.</PROPTEXT>
+<INSCHEME scheme=" Argument from Cause to Effect " schid="6"/>
 <ROLE class="wigmoreFact" element="none"/>
 <ROLE class="addedNegation" element="no"/>
 <ROLE class="toulmin" element="data"/>
@@ -467,9 +469,10 @@ If you would like your organisation to be listed on this page, please contact Ca
 </PROP>
 <CA>
 <AU>
-<PROP identifier="A" missing="no">
-<PROPTEXT offset="593">Lift sharing can contribute to community cohesion</PROPTEXT>
-<INSCHEME scheme=" Argument from Consequences " schid="3"/>
+<PROP identifier="C" missing="no">
+<PROPTEXT offset="127">Buses and coaches are therefore champions when it comes to reducing road congestion</PROPTEXT>
+<INSCHEME scheme=" Argument from Cause to Effect " schid="6"/>
+<INSCHEME scheme=" Argument from Consequences " schid="7"/>
 <ROLE class="wigmoreFact" element="none"/>
 <ROLE class="addedNegation" element="no"/>
 <ROLE class="toulmin" element="data"/>
@@ -479,8 +482,8 @@ If you would like your organisation to be listed on this page, please contact Ca
 <CA>
 <AU>
 <PROP identifier="B" missing="no">
-<PROPTEXT offset="644">connecting people with shared interests or similar lifestyles</PROPTEXT>
-<INSCHEME scheme=" Argument from Consequences " schid="3"/>
+<PROPTEXT offset="269">Fewer cars means less congestion and less CO2 emissions</PROPTEXT>
+<INSCHEME scheme=" Argument from Consequences " schid="7"/>
 <ROLE class="wigmoreFact" element="none"/>
 <ROLE class="addedNegation" element="no"/>
 <ROLE class="toulmin" element="data"/>
@@ -489,9 +492,9 @@ If you would like your organisation to be listed on this page, please contact Ca
 </PROP>
 <CA>
 <AU>
-<PROP identifier="H" missing="yes" nodelabel="'Community cohesion' implies making people get along who might not otherwise get along. Connecting people who already share interests might not count.">
-<PROPTEXT offset="-1">Connecting people with shared interests or similar lifestyles can contribute to community cohesion</PROPTEXT>
-<INSCHEME scheme=" Argument from Consequences " schid="3"/>
+<PROP identifier="A" missing="no">
+<PROPTEXT offset="72">One bus can replace a minimum of 30 cars on the road.&#13;</PROPTEXT>
+<INSCHEME scheme=" Argument from Consequences " schid="7"/>
 <ROLE class="wigmoreFact" element="none"/>
 <ROLE class="addedNegation" element="no"/>
 <ROLE class="toulmin" element="data"/>
