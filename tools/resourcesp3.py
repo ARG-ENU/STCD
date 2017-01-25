@@ -1,4 +1,4 @@
-import ConfigParser as cp
+import configparser as cp
 import datetime as dt
 import getpass as gp
 import optparse as opt
@@ -41,7 +41,7 @@ def new_resource(url):
 
 def main():
     parser = opt.OptionParser(description="STCD Metadata Tool",
-        prog="resources.py",
+        prog="resourcesp3.py",
         version="0.1",
         usage="python %prog [config] URL")
     parser.add_option('--config', '-c', default="etc/config/defaults.cfg")
