@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ARG SYSTEM "argument.dtd">
+<ARG>
+<?Araucaria UTF-8?>
+<SCHEMESET>
+<SCHEME>
+<NAME>Probabilifying Conveyance Argument</NAME>
+<FORM>
+<PREMISE>A</PREMISE>
+<PREMISE>If A, then A makes B probable</PREMISE>
+<CONCLUSION>B</CONCLUSION>
+</FORM>
+</SCHEME>
+<SCHEME>
+<NAME>Argument from the Sameness of Meaning</NAME>
+<FORM>
+<PREMISE>"A" means the same as "B"</PREMISE>
+<PREMISE>A</PREMISE>
+<CONCLUSION>B</CONCLUSION>
+</FORM>
+</SCHEME>
+<SCHEME>
+<NAME>Argument from Singular Cause</NAME>
+<FORM>
+<PREMISE>A</PREMISE>
+<PREMISE>If A, then A causes B</PREMISE>
+<CONCLUSION>B</CONCLUSION>
+</FORM>
+</SCHEME>
+<SCHEME>
+<NAME>Argument to Common Cause</NAME>
+<FORM>
+<PREMISE>A is similar to B</PREMISE>
+<PREMISE>If A is similar to B and C caused A, then the similarity between A and B is caused by C’s causing both A and B</PREMISE>
+<PREMISE>C caused A</PREMISE>
+<CONCLUSION>C caused both A and B</CONCLUSION>
+</FORM>
+</SCHEME>
+<SCHEME>
+<NAME>Class-Membership Argument</NAME>
+<FORM>
+<PREMISE>A is an F</PREMISE>
+<PREMISE>All Fs are members of the class of Gs</PREMISE>
+<CONCLUSION>A is a G</CONCLUSION>
+</FORM>
+</SCHEME>
+<SCHEME>
+<NAME>Argument from Species to Genus</NAME>
+<FORM>
+<PREMISE>A is a G</PREMISE>
+<PREMISE>Gs are a species of F</PREMISE>
+<CONCLUSION>A is an F</CONCLUSION>
+</FORM>
+</SCHEME>
+<SCHEME>
+<NAME>Argument to Singular Cause</NAME>
+<FORM>
+<PREMISE>If A, then A is an effect of B</PREMISE>
+<PREMISE>A</PREMISE>
+<CONCLUSION>B</CONCLUSION>
+</FORM>
+</SCHEME>
+<SCHEME>
+<NAME>Argument from Numerical Identity</NAME>
+<FORM>
+<PREMISE>A is numerically identical to B</PREMISE>
+<PREMISE>A is F</PREMISE>
+<CONCLUSION>B is F</CONCLUSION>
+</FORM>
+</SCHEME>
+<SCHEME>
+<NAME>Argument from Causal Law</NAME>
+<FORM>
+<PREMISE>Facts of type F cause facts of type G</PREMISE>
+<PREMISE>A is a fact of type F</PREMISE>
+<CONCLUSION>Something is a G</CONCLUSION>
+</FORM>
+</SCHEME>
+<SCHEME>
+<NAME>Argument from the Constitution of Concrete Facts.</NAME>
+<FORM>
+<PREMISE>A</PREMISE>
+<PREMISE>If A, then A constitutes the concrete fact that B</PREMISE>
+<CONCLUSION>B</CONCLUSION>
+</FORM>
+</SCHEME>
+<SCHEME>
+<NAME>Argument from the Constitution of Properties</NAME>
+<FORM>
+<PREMISE>If A, then A constitutes the fact that B is F</PREMISE>
+<PREMISE>A</PREMISE>
+<CONCLUSION>B is F</CONCLUSION>
+</FORM>
+</SCHEME>
+<SCHEME>
+<NAME>Argument from the Constitution of Positive Normative Facts</NAME>
+<FORM>
+<PREMISE>B</PREMISE>
+<PREMISE>If B, then B constitutes the fact that A ought to be the case</PREMISE>
+<CONCLUSION>A ought to be the case</CONCLUSION>
+</FORM>
+</SCHEME>
+<SCHEME>
+<NAME>Argument from the Constitution of Causal Laws</NAME>
+<FORM>
+<PREMISE>If A, then A constitutes the fact that it is a causal law that Fs are Gs</PREMISE>
+<PREMISE>A</PREMISE>
+<CONCLUSION>It is a causal law that Fs are Gs</CONCLUSION>
+</FORM>
+</SCHEME>
+<SCHEME>
+<NAME>Argument from Implication</NAME>
+<FORM>
+<PREMISE>A</PREMISE>
+<PREMISE>"A" logically implies "B"</PREMISE>
+<CONCLUSION>B</CONCLUSION>
+</FORM>
+</SCHEME>
+<SCHEME>
+<NAME>Argument from the Constitution of Negative Normative Facts</NAME>
+<FORM>
+<PREMISE>A</PREMISE>
+<PREMISE>If A, then A constitutes the fact that B should not be the case</PREMISE>
+<CONCLUSION>B should not be the case</CONCLUSION>
+</FORM>
+</SCHEME>
+<SCHEME>
+<NAME>Argument from the Constitution of Constitution Facts</NAME>
+<FORM>
+<PREMISE>If A, then A constitutes the fact that if B, B constitutes the fact that C</PREMISE>
+<PREMISE>A</PREMISE>
+<CONCLUSION>If B, B constitutes the fact that C </CONCLUSION>
+</FORM>
+</SCHEME>
+<SCHEME>
+<NAME>Argument from the Constitution of Necessary Conditions</NAME>
+<FORM>
+<PREMISE>A</PREMISE>
+<PREMISE>If A, then A constitutes the fact that B is a necessary condition for C</PREMISE>
+<CONCLUSION>B must obtain if C is to obtain</CONCLUSION>
+</FORM>
+</SCHEME>
+<SCHEME>
+<NAME>Argument from the Constitution of Possibilities</NAME>
+<FORM>
+<PREMISE>A</PREMISE>
+<PREMISE>If A, then A constitutes the fact that it is possible that B</PREMISE>
+<CONCLUSION>It is possible that B</CONCLUSION>
+</FORM>
+</SCHEME>
+<SCHEME>
+<NAME>Argument from the Constitution of Singular Causal Conditionals</NAME>
+<FORM>
+<PREMISE>If A, then - A constitutes the fact that if B, B will cause C</PREMISE>
+<PREMISE>A</PREMISE>
+<CONCLUSION>If B, B will cause C</CONCLUSION>
+</FORM>
+</SCHEME>
+<SCHEME>
+<NAME>Argument from the Constitution of Singular Causal Facts</NAME>
+<FORM>
+<PREMISE>C</PREMISE>
+<PREMISE>If C, then C constitutes the fact that A causes B</PREMISE>
+<CONCLUSION>A causes B</CONCLUSION>
+</FORM>
+</SCHEME>
+<SCHEME>
+<NAME>Argument from the Constitution of Kind Instance</NAME>
+<FORM>
+<PREMISE>A</PREMISE>
+<PREMISE>If A, then A constitutes a thing of kind F</PREMISE>
+<CONCLUSION>There is a thing of kind F</CONCLUSION>
+</FORM>
+</SCHEME>
+<SCHEME>
+<NAME>Argument from Whole to Part</NAME>
+<FORM>
+<PREMISE>A</PREMISE>
+<PREMISE>If A, then B is a part of A </PREMISE>
+<CONCLUSION>B</CONCLUSION>
+</FORM>
+</SCHEME>
+<SCHEME>
+<NAME>Argument from Non-Causal Law</NAME>
+<FORM>
+<PREMISE>A is an F</PREMISE>
+<PREMISE>It is a non-causal law that Fs are Gs</PREMISE>
+<CONCLUSION>A is a G</CONCLUSION>
+</FORM>
+</SCHEME>
+<SCHEME>
+<NAME>Argument from the Constitution of Impossibilities</NAME>
+<FORM>
+<PREMISE>A</PREMISE>
+<PREMISE>If A, then A constitutes the fact that it is not possible that B</PREMISE>
+<CONCLUSION>It is not possible that B</CONCLUSION>
+</FORM>
+</SCHEME>
+<SCHEME>
+<NAME>Argument from Part to Whole</NAME>
+<FORM>
+<PREMISE>If A, then A is a part of B</PREMISE>
+<PREMISE>A</PREMISE>
+<CONCLUSION>B</CONCLUSION>
+</FORM>
+</SCHEME>
+</SCHEMESET>
+<TEXT>Walking&#13;
+----------&#13;
+Walking is a great, green way to get from A to B  each step is a move towards a cleaner, healthier Scotland. Walking costs nothing, it's good for your health and you don't need any special gear to get started. A short journey by foot can be surprisingly quick  and you'll feel the physical benefits whilst doing your bit to help the environment. So, if it's not far, leave the car.&#13;
+Walking is also a great way to help you towards at least 30 minutes of moderate activity five times a week.&#13;
+Even if you're in a hurry, walking can often be quicker than navigating busy roads in a car and then finding a parking place. You won't need change for the meter either.&#13;
+Benefits of walking&#13;
+-------------------------&#13;
+* Save money - cut down on fuel and fares&#13;
+* Keep fit - being active every day can have the greatest health benefits&#13;
+* Unwind - walking is one of the best ways to relieve stress&#13;
+* Reduce emissions - walking is a great, green way to get from A to B&#13;
+Make walking part of your routine&#13;
+---------------------------------------------&#13;
+Try switching to walking for some of those shorter journeys and everyday errands you'd usually do by car. Get the kids walking to school with you if you live close by. If you can walk to work you'll find space and time in your day to think, listen to music and relax. Even popping to the local shops is easier when you don't have to find a place to park first. You could well be surprised by how quickly you can get where you need to go.&#13;
+Take life on&#13;
+--------------&#13;
+Find out more about getting active at the Take Life On website.&#13;
+Find out more &gt;&#13;
+Go at your own pace&#13;
+--------------------------&#13;
+Introduce walking into your daily routine at a pace that suits you. You could start by walking to the local shops instead of taking the car and move on gradually to longer walks, especially in the summer months when the weather is a bit better. Once you're walking a few times a week, you'll soon start to see the difference. Adding further journeys by foot will just boost your fitness and savings even more, whilst helping to create a greener Scotland.&#13;
+&#13;
+&#13;
+</TEXT>
+<EDATA>
+<AUTHOR>null</AUTHOR>
+<DATE>2017-03-20</DATE>
+<SOURCE></SOURCE>
+<COMMENTS></COMMENTS>
+</EDATA>
+<AU>
+<PROP identifier="I" missing="no">
+<PROPTEXT offset="371">if it's not far, leave the car.&#13;</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+<CA>
+<AU>
+<PROP identifier="A" missing="no">
+<PROPTEXT offset="21">Walking is a great, green way to get from A to B</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+<CA>
+<AU>
+<PROP identifier="M" missing="no">
+<PROPTEXT offset="684">Benefits of walking&#13;</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+<CA>
+<AU>
+<PROP identifier="N" missing="no">
+<PROPTEXT offset="734">Save money - cut down on fuel and fares&#13;</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+<CA>
+<AU>
+<PROP identifier="C" missing="no">
+<PROPTEXT offset="130">Walking costs nothing, </PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+<CA>
+<AU>
+<PROP identifier="E" missing="no">
+<PROPTEXT offset="183">you don't need any special gear to get started</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+</AU>
+</CA>
+<CA>
+<AU>
+<PROP identifier="L" missing="no">
+<PROPTEXT offset="639">You won't need change for the meter either.&#13;</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+</AU>
+</CA>
+</AU>
+</CA>
+</AU>
+</CA>
+<CA>
+<AU>
+<PROP identifier="P" missing="no">
+<PROPTEXT offset="852">Unwind - walking is one of the best ways to relieve stress&#13;</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+<CA>
+<AU>
+<PROP identifier="U" missing="no">
+<PROPTEXT offset="1236">you can walk to work you'll find space and time in your day to think, listen to music and relax. </PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+</AU>
+</CA>
+</AU>
+</CA>
+<CA>
+<AU>
+<PROP identifier="H" missing="no">
+<PROPTEXT offset="327">doing your bit to help the environment.</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+<CA>
+<AU>
+<PROP identifier="Q" missing="no">
+<PROPTEXT offset="914">Reduce emissions - walking is a great, green way to get from A to B&#13;</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+<CA>
+<AU>
+<PROP identifier="R" missing="no">
+<PROPTEXT offset="983">Make walking part of your routine&#13;</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+</AU>
+</CA>
+</AU>
+</CA>
+</AU>
+</CA>
+<CA>
+<AU>
+<PROP identifier="D" missing="no">
+<PROPTEXT offset="153">it's good for your health</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+<CA>
+<AU>
+<PROP identifier="J" missing="no">
+<PROPTEXT offset="404">Walking is also a great way to help you towards at least 30 minutes of moderate activity five times a week.</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+<CA>
+<AU>
+<PROP identifier="O" missing="no">
+<PROPTEXT offset="777">Keep fit - being active every day can have the greatest health benefits&#13;</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+</AU>
+</CA>
+</AU>
+</CA>
+<CA>
+<AU>
+<PROP identifier="G" missing="no">
+<PROPTEXT offset="286">you'll feel the physical benefits </PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+</AU>
+</CA>
+</AU>
+</CA>
+</AU>
+</CA>
+<CA>
+<AU>
+<PROP identifier="W" missing="no">
+<PROPTEXT offset="1426">You could well be surprised by how quickly you can get where you need to go.&#13;</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+<CA>
+<AU>
+<PROP identifier="K" missing="no">
+<PROPTEXT offset="513">Even if you're in a hurry, walking can often be quicker than navigating busy roads in a car and then finding a parking place.</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+<CA>
+<AU>
+<PROP identifier="V" missing="no">
+<PROPTEXT offset="1338">popping to the local shops is easier when you don't have to find a place to park first. </PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+</AU>
+</CA>
+</AU>
+</CA>
+<CA>
+<AU>
+<PROP identifier="F" missing="no">
+<PROPTEXT offset="231">A short journey by foot can be surprisingly quick</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+</AU>
+</CA>
+</AU>
+</CA>
+<CA>
+<AU>
+<PROP identifier="B" missing="no">
+<PROPTEXT offset="71">each step is a move towards a cleaner, healthier Scotland. </PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+<CA>
+<AU>
+<PROP identifier="a" missing="no">
+<PROPTEXT offset="1991">Adding further journeys by foot will just boost your fitness and savings even more, whilst helping to create a greener Scotland.&#13;</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+<CA>
+<AU>
+<PROP identifier="Z" missing="no">
+<PROPTEXT offset="1910">Once you're walking a few times a week, you'll soon start to see the difference. </PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+<CA>
+<AU>
+<PROP identifier="Y" missing="no">
+<PROPTEXT offset="1733">You could start by walking to the local shops instead of taking the car and move on gradually to longer walks</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+<CA>
+<AU>
+<PROP identifier="S" missing="no">
+<PROPTEXT offset="1065">Try switching to walking for some of those shorter journeys and everyday errands you'd usually do by car.</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+<CA>
+<AU>
+<PROP identifier="X" missing="no">
+<PROPTEXT offset="1665">Introduce walking into your daily routine at a pace that suits you. </PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+</AU>
+</CA>
+</AU>
+</CA>
+<CA>
+<AU>
+<PROP identifier="T" missing="no">
+<PROPTEXT offset="1171">Get the kids walking to school with you if you live close by.</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+</AU>
+</CA>
+</AU>
+</CA>
+</AU>
+</CA>
+</AU>
+</CA>
+</AU>
+</CA>
+</AU>
+</CA>
+</AU>
+</ARG>
