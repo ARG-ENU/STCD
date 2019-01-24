@@ -1,0 +1,566 @@
+{
+  "analyst_email": "Default Analyst Email",
+  "analyst_name": "Default Analyst Email",
+  "created": "2018-11-07T14:35:58",
+  "edges": [
+    {
+      "id": "87403b9b-8403-49de-87c6-4e32f03e7960",
+      "source_id": "3d35eb8c-e071-461f-84bd-fe1b4d792abf",
+      "target_id": "f9c63f9e-338e-4997-b194-eac28e168f99"
+    },
+    {
+      "id": "3ee0f1b4-100d-4e3e-ba00-a1dd87ebe674",
+      "source_id": "f9c63f9e-338e-4997-b194-eac28e168f99",
+      "target_id": "4786e218-39d8-4dff-91fe-7b398d2aa131"
+    },
+    {
+      "id": "bb196ca8-6714-4027-bbd5-df0d5281adab",
+      "source_id": "3f147328-2f49-4e9e-90ce-2b1ec6799e91",
+      "target_id": "e9e28ef8-478d-485b-8213-1d1349276854"
+    },
+    {
+      "id": "3aefb4d2-60bf-423e-b419-1ebb5d349512",
+      "source_id": "e9e28ef8-478d-485b-8213-1d1349276854",
+      "target_id": "4786e218-39d8-4dff-91fe-7b398d2aa131"
+    },
+    {
+      "id": "1f6c0418-ee32-4662-966f-0a528c409d87",
+      "source_id": "45155b9c-2e3f-4aa8-825f-d0ae0d3d65dd",
+      "target_id": "065d87fc-2a8f-4a6d-ae30-616dcd350b8d"
+    },
+    {
+      "id": "59cc488e-3b6d-40f9-9852-cbd6921a8f9a",
+      "source_id": "065d87fc-2a8f-4a6d-ae30-616dcd350b8d",
+      "target_id": "4786e218-39d8-4dff-91fe-7b398d2aa131"
+    },
+    {
+      "id": "f81161cd-d4e9-402e-9f11-948e64f8daa7",
+      "source_id": "d504a955-901c-4049-ad29-d6d1d3e20f41",
+      "target_id": "7b4d7d3e-b785-4259-ba05-82471f4a6b62"
+    },
+    {
+      "id": "db0d0b53-f48f-4fbd-9138-88d7c349cf81",
+      "source_id": "7b4d7d3e-b785-4259-ba05-82471f4a6b62",
+      "target_id": "eeb202d4-285c-4b76-9fcb-3e2aff2690d9"
+    },
+    {
+      "id": "6686d0f0-b6b8-48d0-8471-e835d971cbdc",
+      "source_id": "4786e218-39d8-4dff-91fe-7b398d2aa131",
+      "target_id": "f2c1ca5f-4b85-4245-a510-6613d06b7190"
+    },
+    {
+      "id": "9e2004c2-9ae1-4d2e-add7-585396958095",
+      "source_id": "f2c1ca5f-4b85-4245-a510-6613d06b7190",
+      "target_id": "634c0c66-4b09-4445-aa39-ff492be8d0f9"
+    },
+    {
+      "id": "eec56fbe-5379-482d-baf4-6fa5c415e36d",
+      "source_id": "e3955bdb-3aac-4bd0-b33b-95f3a5f3b2bf",
+      "target_id": "cb9e9feb-33ab-41bd-962b-6b67b81c708f"
+    },
+    {
+      "id": "d207e4f7-c5fc-4341-8ccd-77309d166f2f",
+      "source_id": "cb9e9feb-33ab-41bd-962b-6b67b81c708f",
+      "target_id": "634c0c66-4b09-4445-aa39-ff492be8d0f9"
+    },
+    {
+      "id": "48a6acb8-ab1f-4e5b-b04e-732f21eee464",
+      "source_id": "eeb202d4-285c-4b76-9fcb-3e2aff2690d9",
+      "target_id": "d745e1a2-1b7c-4d82-b953-0f43b1814e04"
+    },
+    {
+      "id": "ef94ab5f-d210-49ae-b4c8-591433a67171",
+      "source_id": "d745e1a2-1b7c-4d82-b953-0f43b1814e04",
+      "target_id": "634c0c66-4b09-4445-aa39-ff492be8d0f9"
+    },
+    {
+      "id": "57ef1244-4a83-4e4d-9f4b-081ec23bc4f3",
+      "source_id": "7218ccd4-2fea-4b76-9ccb-07b412f8fa52",
+      "target_id": "995cc3ec-d837-4924-ba5b-0ce4b48a661a"
+    },
+    {
+      "id": "f539f5a3-7b7e-479d-97d5-2284540c1fa2",
+      "source_id": "995cc3ec-d837-4924-ba5b-0ce4b48a661a",
+      "target_id": "79ae1190-33dd-4b27-b082-923112ffee90"
+    },
+    {
+      "id": "3ca0ec5c-7ebd-4ade-a53c-08e24828ab23",
+      "source_id": "2d4b931d-bb6d-4e32-9c5e-8677e8a87198",
+      "target_id": "1ae4c925-576f-48a3-ac5d-d3d2f0d0ad1d"
+    },
+    {
+      "id": "b1afa894-ea87-439a-b508-3d9b02304cd5",
+      "source_id": "1ae4c925-576f-48a3-ac5d-d3d2f0d0ad1d",
+      "target_id": "7218ccd4-2fea-4b76-9ccb-07b412f8fa52"
+    },
+    {
+      "id": "54b15498-19fc-49f9-b9cf-62d7c1591185",
+      "source_id": "501ad840-866a-4f7b-85e9-65f7b513f9f4",
+      "target_id": "f9bfda04-b6cb-4ac4-942c-50711de63b64"
+    },
+    {
+      "id": "cd018693-e312-4082-8ff2-60aee6c18240",
+      "source_id": "f9bfda04-b6cb-4ac4-942c-50711de63b64",
+      "target_id": "634c0c66-4b09-4445-aa39-ff492be8d0f9"
+    },
+    {
+      "id": "886bb71c-726d-4056-be15-6d3e62766bc8",
+      "source_id": "79ae1190-33dd-4b27-b082-923112ffee90",
+      "target_id": "725baeb2-45da-46cd-8088-189f55d1600b"
+    },
+    {
+      "id": "d6345bd9-c2a1-49f2-9088-d1289d4b7bc7",
+      "source_id": "725baeb2-45da-46cd-8088-189f55d1600b",
+      "target_id": "634c0c66-4b09-4445-aa39-ff492be8d0f9"
+    },
+    {
+      "id": "749a61b8-9d20-4aa1-ad61-9d7b8d7422cd",
+      "source_id": "a4938ee6-0412-43de-8c64-351006bcfac0",
+      "target_id": "ed37789e-0188-489f-9592-3871625fddf4"
+    },
+    {
+      "id": "7c5f20e6-af7b-4451-ac5b-2d17de6666fa",
+      "source_id": "ed37789e-0188-489f-9592-3871625fddf4",
+      "target_id": "f5fa3360-9656-433d-b0e3-05ec55187e4d"
+    },
+    {
+      "id": "6478cb49-832a-44bc-a050-83db0d1b733b",
+      "source_id": "f5fa3360-9656-433d-b0e3-05ec55187e4d",
+      "target_id": "04f28636-2377-4adf-9157-8668464d516f"
+    },
+    {
+      "id": "fab31ae7-990e-4c8d-bd01-46d77756ab25",
+      "source_id": "04f28636-2377-4adf-9157-8668464d516f",
+      "target_id": "634c0c66-4b09-4445-aa39-ff492be8d0f9"
+    },
+    {
+      "id": "0967c3e6-2edf-4203-8c91-9852163e3230",
+      "source_id": "48150a04-a304-43b7-a9be-50411232edc3",
+      "target_id": "dcb79c3e-b4ea-410f-b7f1-27eaa29f77f7"
+    },
+    {
+      "id": "f4e01050-a1d0-4aec-ac6d-4323d2f7304c",
+      "source_id": "dcb79c3e-b4ea-410f-b7f1-27eaa29f77f7",
+      "target_id": "634c0c66-4b09-4445-aa39-ff492be8d0f9"
+    },
+    {
+      "id": "095c0ae3-221b-4bca-b523-78f412eacbef",
+      "source_id": "3abf66aa-3372-45b3-82af-fbc5103eef8f",
+      "target_id": "85ce200c-0482-4d92-acc1-69ebbcce582e"
+    },
+    {
+      "id": "b38353e7-e8b3-438b-bfd5-3b275afd38e9",
+      "source_id": "85ce200c-0482-4d92-acc1-69ebbcce582e",
+      "target_id": "48150a04-a304-43b7-a9be-50411232edc3"
+    },
+    {
+      "id": "b5277d6f-4b41-4725-a0c1-708cb1132b28",
+      "source_id": "8ed5e5b6-34b9-4f2a-87fa-cb94134d3751",
+      "target_id": "85ce200c-0482-4d92-acc1-69ebbcce582e"
+    },
+    {
+      "id": "bcfbba7a-a1d4-45cd-8579-4809addafa91",
+      "source_id": "ca26e235-2047-4980-be66-91cc43d5fe92",
+      "target_id": "85ce200c-0482-4d92-acc1-69ebbcce582e"
+    },
+    {
+      "id": "334cbfde-f36f-45bc-9351-081b941f1584",
+      "source_id": "2bef2665-7bf4-4c49-98f3-fbe31f66cd3d",
+      "target_id": "85ce200c-0482-4d92-acc1-69ebbcce582e"
+    },
+    {
+      "id": "3307dde8-77c6-438f-b418-80d41dd194ac",
+      "source_id": "1ec1e2d5-0b95-4e66-bd1c-660a1bca5ce9",
+      "target_id": "85ce200c-0482-4d92-acc1-69ebbcce582e"
+    },
+    {
+      "id": "d64adc73-b6ef-4e37-86f4-30518208e9df",
+      "source_id": "f020bd74-e2b3-45ef-9eeb-a7810449e0f1",
+      "target_id": "85ce200c-0482-4d92-acc1-69ebbcce582e"
+    }
+  ],
+  "edited": "2018-11-07T15:51:49",
+  "id": "f732abaf-3808-460b-9923-2ef0f9801397",
+  "metadata": {},
+  "nodes": [
+    {
+      "id": "4786e218-39d8-4dff-91fe-7b398d2aa131",
+      "type": "atom",
+      "text": "[share] the cost",
+      "sources": [
+        {
+          "resource_id": "b1348e31-eb2b-4fb5-8b32-007c0e118657",
+          "text": "the cost",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "3d35eb8c-e071-461f-84bd-fe1b4d792abf",
+      "type": "atom",
+      "text": "Cut petrol costs in half",
+      "sources": [
+        {
+          "resource_id": "b1348e31-eb2b-4fb5-8b32-007c0e118657",
+          "text": "Cut petrol costs in half",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "45155b9c-2e3f-4aa8-825f-d0ae0d3d65dd",
+      "type": "atom",
+      "text": "split parking fees",
+      "sources": [
+        {
+          "resource_id": "b1348e31-eb2b-4fb5-8b32-007c0e118657",
+          "text": "split parking fees",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "eeb202d4-285c-4b76-9fcb-3e2aff2690d9",
+      "type": "atom",
+      "text": " save the environment",
+      "sources": [
+        {
+          "resource_id": "b1348e31-eb2b-4fb5-8b32-007c0e118657",
+          "text": " save the environment",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "e3955bdb-3aac-4bd0-b33b-95f3a5f3b2bf",
+      "type": "atom",
+      "text": "enjoy the company",
+      "sources": [
+        {
+          "resource_id": "b1348e31-eb2b-4fb5-8b32-007c0e118657",
+          "text": "enjoy the company",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "3f147328-2f49-4e9e-90ce-2b1ec6799e91",
+      "type": "atom",
+      "text": "By choosing to share your car journey with another person, you’ll see some extra change in your wallet",
+      "sources": [
+        {
+          "resource_id": "b1348e31-eb2b-4fb5-8b32-007c0e118657",
+          "text": "By choosing to share your car journey with another person, you’ll see some extra change in your wallet",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "d504a955-901c-4049-ad29-d6d1d3e20f41",
+      "type": "atom",
+      "text": "you’ll be doing a great deal to tackle CO2 emissions in your local area.",
+      "sources": [
+        {
+          "resource_id": "b1348e31-eb2b-4fb5-8b32-007c0e118657",
+          "text": "you’ll be doing a great deal to tackle CO2 emissions in your local area.",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "634c0c66-4b09-4445-aa39-ff492be8d0f9",
+      "type": "atom",
+      "text": "Why Car Share?",
+      "sources": [
+        {
+          "resource_id": "b1348e31-eb2b-4fb5-8b32-007c0e118657",
+          "text": "Why Car Share?",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "f9c63f9e-338e-4997-b194-eac28e168f99",
+      "type": "scheme",
+      "name": "Argument from Example"
+    },
+    {
+      "id": "e9e28ef8-478d-485b-8213-1d1349276854",
+      "type": "scheme",
+      "name": "Argument from Example"
+    },
+    {
+      "id": "065d87fc-2a8f-4a6d-ae30-616dcd350b8d",
+      "type": "scheme",
+      "name": "Argument from Example"
+    },
+    {
+      "id": "7b4d7d3e-b785-4259-ba05-82471f4a6b62",
+      "type": "scheme",
+      "name": "Argument from Example"
+    },
+    {
+      "id": "f2c1ca5f-4b85-4245-a510-6613d06b7190",
+      "type": "scheme",
+      "name": "Argument from Commitment"
+    },
+    {
+      "id": "cb9e9feb-33ab-41bd-962b-6b67b81c708f",
+      "type": "scheme",
+      "name": "Argument from Commitment"
+    },
+    {
+      "id": "d745e1a2-1b7c-4d82-b953-0f43b1814e04",
+      "type": "scheme",
+      "name": "Argument from Commitment"
+    },
+    {
+      "id": "a4938ee6-0412-43de-8c64-351006bcfac0",
+      "type": "atom",
+      "text": "Split the weekly commuting between you and your car share companion and have the chance to relax as a passenger.  ",
+      "sources": [
+        {
+          "resource_id": "b1348e31-eb2b-4fb5-8b32-007c0e118657",
+          "text": "Reduce stress: Split the weekly commuting between you and your car share companion and have the chance to relax as a passenger.  ",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "79ae1190-33dd-4b27-b082-923112ffee90",
+      "type": "atom",
+      "text": "Be part of the solution!",
+      "sources": [
+        {
+          "resource_id": "b1348e31-eb2b-4fb5-8b32-007c0e118657",
+          "text": "Be part of the solution!",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "2d4b931d-bb6d-4e32-9c5e-8677e8a87198",
+      "type": "atom",
+      "text": "Congestion is a major source of air pollution and blocks the road for industry to move freely. ",
+      "sources": [
+        {
+          "resource_id": "b1348e31-eb2b-4fb5-8b32-007c0e118657",
+          "text": "Congestion is a major source of air pollution and blocks the road for industry to move freely. ",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "7218ccd4-2fea-4b76-9ccb-07b412f8fa52",
+      "type": "atom",
+      "text": "By choosing to car share you are helping to tackle these problems and make your world a nicer place.",
+      "sources": [
+        {
+          "resource_id": "b1348e31-eb2b-4fb5-8b32-007c0e118657",
+          "text": "By choosing to car share you are helping to tackle these problems and make your world a nicer place.",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "995cc3ec-d837-4924-ba5b-0ce4b48a661a",
+      "type": "scheme",
+      "name": "Argument from Example"
+    },
+    {
+      "id": "1ae4c925-576f-48a3-ac5d-d3d2f0d0ad1d",
+      "type": "scheme",
+      "name": "Argument from Example"
+    },
+    {
+      "id": "501ad840-866a-4f7b-85e9-65f7b513f9f4",
+      "type": "atom",
+      "text": "Perks: Park in the best spaces when there's two or more in the car.",
+      "sources": [
+        {
+          "resource_id": "b1348e31-eb2b-4fb5-8b32-007c0e118657",
+          "text": "Perks: Park in the best spaces when there's two or more in the car.",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "f9bfda04-b6cb-4ac4-942c-50711de63b64",
+      "type": "scheme",
+      "name": "Argument from Consequences"
+    },
+    {
+      "id": "725baeb2-45da-46cd-8088-189f55d1600b",
+      "type": "scheme",
+      "name": "Argument from Commitment"
+    },
+    {
+      "id": "f5fa3360-9656-433d-b0e3-05ec55187e4d",
+      "type": "atom",
+      "text": "Reduce stress",
+      "sources": [
+        {
+          "resource_id": "b1348e31-eb2b-4fb5-8b32-007c0e118657",
+          "text": "Reduce stress",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "ed37789e-0188-489f-9592-3871625fddf4",
+      "type": "scheme",
+      "name": "Argument from Example"
+    },
+    {
+      "id": "04f28636-2377-4adf-9157-8668464d516f",
+      "type": "scheme",
+      "name": "Argument from Commitment"
+    },
+    {
+      "id": "48150a04-a304-43b7-a9be-50411232edc3",
+      "type": "atom",
+      "text": "[Car sharing is difficult to organise]",
+      "sources": [
+        {
+          "resource_id": "b1348e31-eb2b-4fb5-8b32-007c0e118657",
+          "text": "[Car sharing is difficult to organise]",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "dcb79c3e-b4ea-410f-b7f1-27eaa29f77f7",
+      "type": "scheme",
+      "name": "Default Conflict"
+    },
+    {
+      "id": "3abf66aa-3372-45b3-82af-fbc5103eef8f",
+      "type": "atom",
+      "text": "Friends and family: The easiest way to share a ride is with someone you know well. ",
+      "sources": [
+        {
+          "resource_id": "b1348e31-eb2b-4fb5-8b32-007c0e118657",
+          "text": "Friends and family: The easiest way to share a ride is with someone you know well. ",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "85ce200c-0482-4d92-acc1-69ebbcce582e",
+      "type": "scheme",
+      "name": "Default Conflict"
+    },
+    {
+      "id": "f020bd74-e2b3-45ef-9eeb-a7810449e0f1",
+      "type": "atom",
+      "text": "Try setting up a group Whats app or Facebook messenger where everyone can discuss weekly travel plans",
+      "sources": [
+        {
+          "resource_id": "b1348e31-eb2b-4fb5-8b32-007c0e118657",
+          "text": "Try setting up a group Whats app or Facebook messenger where everyone can discuss weekly travel plans",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "8ed5e5b6-34b9-4f2a-87fa-cb94134d3751",
+      "type": "atom",
+      "text": "Try setting up a group Whats app or Facebook messenger where everyone can discuss weekly travel plans",
+      "sources": [
+        {
+          "resource_id": "b1348e31-eb2b-4fb5-8b32-007c0e118657",
+          "text": "Try setting up a group Whats app or Facebook messenger where everyone can discuss weekly travel plans",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "ca26e235-2047-4980-be66-91cc43d5fe92",
+      "type": "atom",
+      "text": "Many people who live in the suburbs will drive into city centre using one of the main routes...So, it makes sense that if you notice someone on your road making the exact same journey, to ask them if they would be interested in sharing.  ",
+      "sources": [
+        {
+          "resource_id": "b1348e31-eb2b-4fb5-8b32-007c0e118657",
+          "text": "Many people who live in the suburbs will drive into city centre using one of the main routes (A38, Hagley Road, Bristol Road etc...) \nSo, it makes sense that if you notice someone on your road making the exact same journey, to ask them if they would be interested in sharing.  ",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "2bef2665-7bf4-4c49-98f3-fbe31f66cd3d",
+      "type": "atom",
+      "text": "Colleagues: This can be a tricky one if your employer does not have a system in place already. But you could ask colleagues on your intranet, newsletter or even whilst making a cuppa!",
+      "sources": [
+        {
+          "resource_id": "b1348e31-eb2b-4fb5-8b32-007c0e118657",
+          "text": "Colleagues: This can be a tricky one if your employer does not have a system in place already. But you could ask colleagues on your intranet, newsletter or even whilst making a cuppa!",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "1ec1e2d5-0b95-4e66-bd1c-660a1bca5ce9",
+      "type": "atom",
+      "text": "Someone new: There are thousands of people making the same journeys every day. There are reputable UK wide and local sites available. The one you choose is dependent on where you live and where you might like to travel. We would recommend joining a few to start with to increase your chance of finding the perfect match.",
+      "sources": [
+        {
+          "resource_id": "b1348e31-eb2b-4fb5-8b32-007c0e118657",
+          "text": "Someone new: There are thousands of people making the same journeys every day. There are reputable UK wide and local sites available. The one you choose is dependent on where you live and where you might like to travel. We would recommend joining a few to start with to increase your chance of finding the perfect match.",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    }
+  ],
+  "resources": [
+    {
+      "id": "b1348e31-eb2b-4fb5-8b32-007c0e118657",
+      "content": "Share the journey, the cost and the carbon\nCut petrol costs in half, split parking fees, save the environment and enjoy the company! By choosing to share your car journey with another person, you’ll see some extra change in your wallet and you’ll be doing a great deal to tackle CO2 emissions in your local area.\n\nWhy Car Share?\n\nSave money: Probably the biggest motivator for trying something new. Sharing your journey can effectively halve your petrol costs. Websites such as liftshare.co.uk enable you to set a fare in advance. \n\nReduce stress: Split the weekly commuting between you and your car share companion and have the chance to relax as a passenger.  \n\nBe part of the solution! Congestion is a major source of air pollution and blocks the road for industry to move freely. By choosing to car share you are helping to tackle these problems and make your world a nicer place.\n\nPerks: Park in the best spaces when there's two or more in the car. Parking spaces for those that car share are available at the rail stations below. No booking required, just turn up on the day as a pair or more to benefit. \n\nCar share.jpg\n\nSolihull Station: Parking at this station is run by Chiltern Railways. They offer a 'Three for Free' offer where if there are three or more people traveling in the car, you can park for free! Just validate your parking ticket at the station office with everyone present to benefit. \n\nHow to get started  \n\nFriends and family: The easiest way to share a ride is with someone you know well. \nTry setting up a group Whats app or Facebook messenger where everyone can discuss weekly travel plans\nNeighbours: Many people who live in the suburbs will drive into city centre using one of the main routes (A38, Hagley Road, Bristol Road etc...) \nSo, it makes sense that if you notice someone on your road making the exact same journey, to ask them if they would be interested in sharing.  \nMention in passing, knock on the door or pop a note through the door with your travel details, contact number and proposal (i.e split driving and frequency) \nColleagues: This can be a tricky one if your employer does not have a system in place already. But you could ask colleagues on your intranet, newsletter or even whilst making a cuppa!\nSomeone new: There are thousands of people making the same journeys every day. There are reputable UK wide and local sites available. The one you choose is dependent on where you live and where you might like to travel. We would recommend joining a few to start with to increase your chance of finding the perfect match.\nUK wide\nliftshare.co.uk\nblablacar.co.uk\n\nWest Midlands \nSandwell \nWolverhampton\n\nSome things to consider: \n\nYou don't always have to leave from the exact same start point, meet on route and travel the rest of the way in one car \nIt doesn't have to be every day, car sharing just once a week can greatly help towards CO2 reductions\nAlways be upfront about any petrol contributions or split the driving to keep it fair\nElectric car\nCharging points available across the region.                    \n\nFind out more\n\nPark and Ride\nWhy get stuck in congestion when you can Park and Ride?\n\nFind out more\n\nShare\nFacebookTwitterGoogle+ Email PrintBack to top\n Plan your journey\n\nStay up to date\nDon't miss out on vital information, sign up today and be in the know at all times.\n\n\n\n\n",
+      "type": "text",
+      "metadata": {
+        "title": "Resource"
+      }
+    }
+  ]
+}

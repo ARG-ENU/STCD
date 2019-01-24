@@ -1,0 +1,11 @@
+"guid":"4a05dd4b-c6c9-44d1-88f5-0af8c66a744c"
+"source":"Cycling Weekly"
+"url":""https://www.cyclingweekly.com/news/latest-news/six-reasons-why-cycling-in-wales-is-brilliant-206713
+"analyst-name":"Al-Baker"
+"analyst-email":"A.Baker-Graham@leeds.ac.uk"
+"region":"UKL"
+"mode":"CYC"
+"argument-types":""
+"values-appealed":""
+"valence-framing":""
+"media":""

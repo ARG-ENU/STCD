@@ -1,5 +1,0 @@
-"guid":""
-"datetime":""
-"url":"https://www.cyclestreets.net/collisions/"
-"analyst-name":"Al Baker"
-"analyst-email":"A.Baker-Graham@leeds.ac.uk"

@@ -1,0 +1,5 @@
+"guid":"744b5951-d5fd-479e-83bf-f8fdbf7cf648"
+"datetime":""
+"url":"https://www.sustrans.org.uk/blog/why-dont-more-women-cycle"
+"analyst-name":"Al Baker"
+"analyst-email":"A.Baker-Graham@leeds.ac.uk"

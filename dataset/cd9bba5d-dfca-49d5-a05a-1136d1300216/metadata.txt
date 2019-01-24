@@ -1,0 +1,5 @@
+"guid":"cd9bba5d-dfca-49d5-a05a-1136d1300216"
+"datetime":""
+"url":"http://switchoffandbreathe.org/report-idling/"
+"analyst-name":"Al Baker"
+"analyst-email":"A.Baker-Graham@leeds.ac.uk"

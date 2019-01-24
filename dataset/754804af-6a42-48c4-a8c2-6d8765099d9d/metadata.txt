@@ -1,0 +1,5 @@
+"guid":"754804af-6a42-48c4-a8c2-6d8765099d9d"
+"datetime":""
+"url":"http://www.cyclehayling.org.uk/id-like-to-start-commuting/"
+"analyst-name":"Al Baker"
+"analyst-email":"A.Baker-Graham@leeds.ac.uk"

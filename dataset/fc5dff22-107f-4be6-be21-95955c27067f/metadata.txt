@@ -1,0 +1,5 @@
+"guid":"fc5dff22-107f-4be6-be21-95955c27067f"
+"datetime":""
+"url":"http://www.cyclehayling.org.uk/lights/"
+"analyst-name":"Al Baker"
+"analyst-email":"A.Baker-Graham@leeds.ac.uk"

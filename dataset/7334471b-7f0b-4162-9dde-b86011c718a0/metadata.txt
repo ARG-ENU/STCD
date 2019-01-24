@@ -1,0 +1,5 @@
+"guid":"7334471b-7f0b-4162-9dde-b86011c718a0"
+"datetime":""
+"url":"http://www.cyclehayling.org.uk/i-dont-have-a-bike/"
+"analyst-name":"Al Baker"
+"analyst-email":"A.Baker-Graham@leeds.ac.uk"

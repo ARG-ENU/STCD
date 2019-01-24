@@ -1,0 +1,82 @@
+{
+  "analyst_email": "Default Analyst Email",
+  "analyst_name": "Default Analyst Email",
+  "created": "2018-11-29T10:20:52",
+  "edges": [
+    {
+      "id": "f2932b14-2a9f-46ee-a606-507083c1332f",
+      "source_id": "bf2751a9-e7ef-4486-b9f2-7e42ce87933d",
+      "target_id": "4df2ccb9-e094-450a-a6f7-aab91dd360e3"
+    },
+    {
+      "id": "b3f5df1e-5622-4a16-859a-9ed589bece89",
+      "source_id": "4df2ccb9-e094-450a-a6f7-aab91dd360e3",
+      "target_id": "d7e87922-1684-4435-b7bd-bbcbba49aa9a"
+    },
+    {
+      "id": "872ec688-5a29-46b7-89e0-c6a144899162",
+      "source_id": "f3857db5-df22-443f-ad72-589a1aa60912",
+      "target_id": "4df2ccb9-e094-450a-a6f7-aab91dd360e3"
+    }
+  ],
+  "edited": "2018-11-29T10:24:23",
+  "id": "7aed0910-771d-4119-9076-0323505ee16c",
+  "metadata": {},
+  "nodes": [
+    {
+      "id": "bf2751a9-e7ef-4486-b9f2-7e42ce87933d",
+      "type": "atom",
+      "text": "We are pleased to announce the introduction of three electric vehicle charging points at the University.",
+      "sources": [
+        {
+          "resource_id": "b6ff53b0-f11c-4595-bc48-6b5270e31647",
+          "text": "We are pleased to announce the introduction of three electric vehicle charging points at the University.",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "d7e87922-1684-4435-b7bd-bbcbba49aa9a",
+      "type": "atom",
+      "text": "The points, which are a further example of the University's commitment to sustainable travel",
+      "sources": [
+        {
+          "resource_id": "b6ff53b0-f11c-4595-bc48-6b5270e31647",
+          "text": "The points, which are a further example of the University's commitment to sustainable travel",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "f3857db5-df22-443f-ad72-589a1aa60912",
+      "type": "atom",
+      "text": " the charging points have been installed with the support of the Office for Low Emission Vehicles (OLEV). They are part of an expansion of the charging network across the public sector estate in Northern Ireland.",
+      "sources": [
+        {
+          "resource_id": "b6ff53b0-f11c-4595-bc48-6b5270e31647",
+          "text": " the charging points have been installed with the support of the Office for Low Emission Vehicles (OLEV). They are part of an expansion of the charging network across the public sector estate in Northern Ireland.",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "4df2ccb9-e094-450a-a6f7-aab91dd360e3",
+      "type": "scheme",
+      "name": "Argument from Example"
+    }
+  ],
+  "resources": [
+    {
+      "id": "b6ff53b0-f11c-4595-bc48-6b5270e31647",
+      "content": "We are pleased to announce the introduction of three electric vehicle charging points at the University.\n\nLocated in the Main site, Fitzwilliam Street and Riddel Hall car parks, the charging points have been installed with the support of the Office for Low Emission Vehicles (OLEV). They are part of an expansion of the charging network across the public sector estate in Northern Ireland. \n\nThe points, which are a further example of the University's commitment to sustainable travel, can be used by staff who hold permits for the location car parks.  \n\nMore information on charging, including a list of charge points across Northern Ireland, can be found on the eCarNI website.",
+      "type": "text",
+      "metadata": {}
+    }
+  ]
+}

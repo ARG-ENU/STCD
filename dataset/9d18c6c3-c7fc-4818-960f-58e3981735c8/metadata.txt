@@ -1,0 +1,5 @@
+"guid":"9d18c6c3-c7fc-4818-960f-58e3981735c8"
+"datetime":""
+"url":"https://bikeability.org.uk/faqs/"
+"analyst-name":"Al Baker"
+"analyst-email":"A.Baker-Graham@leeds.ac.uk"

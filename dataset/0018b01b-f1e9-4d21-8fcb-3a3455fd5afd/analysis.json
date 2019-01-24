@@ -1,0 +1,254 @@
+{
+  "analyst_email": "Default Analyst Email",
+  "analyst_name": "Default Analyst Email",
+  "created": "2018-10-30T17:37:59",
+  "edges": [
+    {
+      "id": "d018692c-7851-4520-96e0-cd3dacb92bb8",
+      "source_id": "9d719094-0d4e-48a1-b7d9-e64c846a8996",
+      "target_id": "925179e8-114d-4d4a-a4fc-f3eaf005096f"
+    },
+    {
+      "id": "798828a8-0cbe-48fb-817e-e7dc509ca16d",
+      "source_id": "925179e8-114d-4d4a-a4fc-f3eaf005096f",
+      "target_id": "e05d9203-c1de-46a8-af86-c2f232e9834e"
+    },
+    {
+      "id": "275ad055-6834-4528-9c59-1efd974ae854",
+      "source_id": "9d719094-0d4e-48a1-b7d9-e64c846a8996",
+      "target_id": "f0d8ab0d-4e9d-4994-a4d9-5b0f8785e99b"
+    },
+    {
+      "id": "8b139fb1-5a9a-4200-91f9-8f0fa368034e",
+      "source_id": "f0d8ab0d-4e9d-4994-a4d9-5b0f8785e99b",
+      "target_id": "876c7df8-07a7-459d-bab9-0283749a3e99"
+    },
+    {
+      "id": "f6421743-efc8-4fc5-8273-c57d4790dfd8",
+      "source_id": "e05d9203-c1de-46a8-af86-c2f232e9834e",
+      "target_id": "fc0bb9da-2e5c-4dbb-8cce-31d4b0d36407"
+    },
+    {
+      "id": "f1aac510-66ac-424a-bcbd-1b6af43eaacb",
+      "source_id": "fc0bb9da-2e5c-4dbb-8cce-31d4b0d36407",
+      "target_id": "876c7df8-07a7-459d-bab9-0283749a3e99"
+    },
+    {
+      "id": "94b01f93-52ee-48e6-8a61-f44375af918f",
+      "source_id": "9d719094-0d4e-48a1-b7d9-e64c846a8996",
+      "target_id": "ccb8adb8-fd45-4b3c-b881-89b1e9024a37"
+    },
+    {
+      "id": "410f75c6-d29e-42eb-a71c-8d687abd3d16",
+      "source_id": "ccb8adb8-fd45-4b3c-b881-89b1e9024a37",
+      "target_id": "54590588-35f8-4862-b290-7cb2e10cf91d"
+    },
+    {
+      "id": "f88b38a8-4058-4235-a5a6-eb5c51870ede",
+      "source_id": "e05d9203-c1de-46a8-af86-c2f232e9834e",
+      "target_id": "35d08716-3553-4714-936c-c96a2fa9bee7"
+    },
+    {
+      "id": "7f071181-9e00-45d2-940d-4d5f85453908",
+      "source_id": "35d08716-3553-4714-936c-c96a2fa9bee7",
+      "target_id": "54590588-35f8-4862-b290-7cb2e10cf91d"
+    },
+    {
+      "id": "94f1f934-5353-4a2f-ace7-73021820b157",
+      "source_id": "9d719094-0d4e-48a1-b7d9-e64c846a8996",
+      "target_id": "c3161896-4a97-45c8-a538-a27bfb5c0d68"
+    },
+    {
+      "id": "821a4bdd-2b87-46b5-bbde-d8b2408f7dd6",
+      "source_id": "c3161896-4a97-45c8-a538-a27bfb5c0d68",
+      "target_id": "29c0e32f-ab97-4ddc-993a-052c5b2709f5"
+    },
+    {
+      "id": "263ebd51-4a39-4400-aa97-979cb464d38f",
+      "source_id": "29c0e32f-ab97-4ddc-993a-052c5b2709f5",
+      "target_id": "32e79923-8a97-41d9-a08a-25d6354621b8"
+    },
+    {
+      "id": "cbf9352f-7118-45f1-8544-808b8aaa6214",
+      "source_id": "32e79923-8a97-41d9-a08a-25d6354621b8",
+      "target_id": "e025c551-6c0f-46fd-bd44-58856043be5f"
+    },
+    {
+      "id": "86c0e082-592e-48b3-ab61-e6b9143846b6",
+      "source_id": "29c0e32f-ab97-4ddc-993a-052c5b2709f5",
+      "target_id": "027645aa-2073-4834-9646-1977a764cdb2"
+    },
+    {
+      "id": "7fc58829-a6df-4ae2-9a60-2347fc70b544",
+      "source_id": "027645aa-2073-4834-9646-1977a764cdb2",
+      "target_id": "ca1d56a5-94b9-48a0-9958-39ff9e1a9bfb"
+    }
+  ],
+  "edited": "2018-11-05T15:35:43",
+  "id": "618d9a7f-0e70-4518-a080-c1755b5219f8",
+  "metadata": {},
+  "nodes": [
+    {
+      "id": "9d719094-0d4e-48a1-b7d9-e64c846a8996",
+      "type": "atom",
+      "text": "Cycling is better for you than driving or getting public transport.",
+      "sources": [
+        {
+          "resource_id": "790953a7-4a4e-47fb-959a-65b8f53f205b",
+          "text": "Cycling is better for you than driving or getting public transport.",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "e05d9203-c1de-46a8-af86-c2f232e9834e",
+      "type": "atom",
+      "text": "It can help you lose weight, reduce stress and improve fitness.",
+      "sources": [
+        {
+          "resource_id": "790953a7-4a4e-47fb-959a-65b8f53f205b",
+          "text": "It can help you lose weight, reduce stress and improve fitness.",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "54590588-35f8-4862-b290-7cb2e10cf91d",
+      "type": "atom",
+      "text": "Cycling into University is an easy way to include exercise in your daily life. ",
+      "sources": [
+        {
+          "resource_id": "790953a7-4a4e-47fb-959a-65b8f53f205b",
+          "text": "Cycling into University is an easy way to include exercise in your daily life. ",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "876c7df8-07a7-459d-bab9-0283749a3e99",
+      "type": "atom",
+      "text": "An 80kg person will burn more than 650 calories riding a bike for an hour",
+      "sources": [
+        {
+          "resource_id": "790953a7-4a4e-47fb-959a-65b8f53f205b",
+          "text": "An 80kg person will burn more than 650 calories riding a bike for an hour",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "e025c551-6c0f-46fd-bd44-58856043be5f",
+      "type": "atom",
+      "text": "Wearing a helmet is important\nRemember to obey traffic lights and road signals\nDon�t ride on the pavement unless a sign says you can\nUse lights and reflectors so you are clearly visible\nDon�t use headphones or a mobile while cycling",
+      "sources": [
+        {
+          "resource_id": "790953a7-4a4e-47fb-959a-65b8f53f205b",
+          "text": "Wearing a helmet is important\nRemember to obey traffic lights and road signals\nDon�t ride on the pavement unless a sign says you can\nUse lights and reflectors so you are clearly visible\nDon�t use headphones or a mobile while cycling",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "ca1d56a5-94b9-48a0-9958-39ff9e1a9bfb",
+      "type": "atom",
+      "text": "Cycle in a responsible manner and give priority to pedestrians\nWarn pedestrians of their presence\nNot park bikes on disabled access routes\nUse designated cycle parking facilities\nAdhere to road signs and markings and obey the Highway Code\nSecure bikes when they are to be left unattended (even for a short while)\nReport loss/damage to cycles to the University's Security Team on 0191 208 6817\nWear helmets and protective clothing\nUse lights and wear bright colours in the hours of darkness",
+      "sources": [
+        {
+          "resource_id": "790953a7-4a4e-47fb-959a-65b8f53f205b",
+          "text": "Cycle in a responsible manner and give priority to pedestrians\nWarn pedestrians of their presence\nNot park bikes on disabled access routes\nUse designated cycle parking facilities\nAdhere to road signs and markings and obey the Highway Code\nSecure bikes when they are to be left unattended (even for a short while)\nReport loss/damage to cycles to the University's Security Team on 0191 208 6817\nWear helmets and protective clothing\nUse lights and wear bright colours in the hours of darkness",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "a99f16e5-cf90-4453-bf7e-0d02c74e3c88",
+      "type": "atom",
+      "text": "Make sure to use a D-lock to secure your bike and consider getting your bike frame security marked.",
+      "sources": [
+        {
+          "resource_id": "790953a7-4a4e-47fb-959a-65b8f53f205b",
+          "text": "Make sure to use a D-lock to secure your bike and consider getting your bike frame security marked.",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "925179e8-114d-4d4a-a4fc-f3eaf005096f",
+      "type": "scheme",
+      "name": "Argument from Example"
+    },
+    {
+      "id": "f0d8ab0d-4e9d-4994-a4d9-5b0f8785e99b",
+      "type": "scheme",
+      "name": "Argument from Example"
+    },
+    {
+      "id": "fc0bb9da-2e5c-4dbb-8cce-31d4b0d36407",
+      "type": "scheme",
+      "name": "Argument from Example"
+    },
+    {
+      "id": "ccb8adb8-fd45-4b3c-b881-89b1e9024a37",
+      "type": "scheme",
+      "name": "Argument from Commitment"
+    },
+    {
+      "id": "35d08716-3553-4714-936c-c96a2fa9bee7",
+      "type": "scheme",
+      "name": "Argument from Commitment"
+    },
+    {
+      "id": "29c0e32f-ab97-4ddc-993a-052c5b2709f5",
+      "type": "atom",
+      "text": "But Cycling Can Be Dangerous",
+      "sources": [
+        {
+          "resource_id": "790953a7-4a4e-47fb-959a-65b8f53f205b",
+          "text": "But Cycling Can Be Dangerous",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "c3161896-4a97-45c8-a538-a27bfb5c0d68",
+      "type": "scheme",
+      "name": "Argument from an Exceptional Case"
+    },
+    {
+      "id": "32e79923-8a97-41d9-a08a-25d6354621b8",
+      "type": "scheme",
+      "name": "Argument from Example"
+    },
+    {
+      "id": "027645aa-2073-4834-9646-1977a764cdb2",
+      "type": "scheme",
+      "name": "Argument from Example"
+    }
+  ],
+  "resources": [
+    {
+      "id": "790953a7-4a4e-47fb-959a-65b8f53f205b",
+      "content": "\n\nWhy Cycle?\nCycling is better for you than driving or getting public transport. It can help you lose weight, reduce stress and improve fitness. Cycling into University is an easy way to include exercise in your daily life. \n\nHealth benefits:\n\nAn 80kg person will burn more than 650 calories riding a bike for an hour\nTips:\n\nWearing a helmet is important\nRemember to obey traffic lights and road signals\nDon�t ride on the pavement unless a sign says you can\nUse lights and reflectors so you are clearly visible\nDon�t use headphones or a mobile while cycling\nBicycle Users Group (BUG)\nbikeBUG includes University staff and studenta who travel by bike. The group aims to improve facilities around campus, providing an up-to-date website of important information for cyclists and co-ordinating various cycling events.\n\nTo added to the BUG mailing list, please contact sustainable.campus@ncl.ac.uk with the subject \"Join BUG\".\nCycle to Work\nhttp://www.myfavouritemagazines.co.uk/images/Cyclescheme-logo.JPGCyclescheme was introduced by the Government and works with the University to hire bikes and safety equipment for employee use. The University purchases the equipment and leases it out to the employee over 12 months. As payments are taken from gross salary, the employee makes savings of 30.4-52% on the purchase amount.\n\nMore Information:\n\nContact Jane Elliott-Simm at jane.elliot-simm@ncl.ac.uk  or +44 (0) 191 208 6311 for information relating to the scheme at Newcastle University\n\nFor more general information contact Cyclescheme on info@cyclescheme.co.uk or 0844 879 5101, or visit the website at http://www.cyclescheme.co.uk/\n\nCycle security\nMake sure to use a D-lock to secure your bike and consider getting your bike frame security marked. Further guidance can be found on the Estate Support Service Security website pages.\n\nWhere to park your bike\nFind out where to park your bike on campus (PDF 5657KB).\n\nCyclist�s Charter\nYou can sign up to the Charter to help promote responsible cycling and in order to receive future information and offers.\n\nCyclists at Newcastle University will:\n\nCycle in a responsible manner and give priority to pedestrians\nWarn pedestrians of their presence\nNot park bikes on disabled access routes\nUse designated cycle parking facilities\nAdhere to road signs and markings and obey the Highway Code\nSecure bikes when they are to be left unattended (even for a short while)\nReport loss/damage to cycles to the University's Security Team on 0191 208 6817\nWear helmets and protective clothing\nUse lights and wear bright colours in the hours of darkness\n\n\n",
+      "type": "text",
+      "metadata": {
+        "title": "resource.txt"
+      }
+    }
+  ]
+}
