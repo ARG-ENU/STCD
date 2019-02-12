@@ -1,0 +1,5 @@
+"guid":"f49d282e-bb23-421f-ba57-32a548d3d415"
+"datetime":""
+"url":"http://www.cyclehayling.org.uk/i-dont-know-what-to-wear/"
+"analyst-name":"Al Baker"
+"analyst-email":"A.Baker-Graham@leeds.ac.uk"

@@ -1,0 +1,5 @@
+"guid":"88b34b6d-c4c1-4177-a9cb-6f8974e737c3"
+"datetime":""
+"url":"https://foe.scot/wp-content/uploads/2017/07/Air%20pollution%20in%20Scotlandrevised%20Jan%202016.pdf"
+"analyst-name":"Al Baker"
+"analyst-email":"A.Baker-Graham@leeds.ac.uk"

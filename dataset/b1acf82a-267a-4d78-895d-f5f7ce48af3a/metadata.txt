@@ -1,0 +1,5 @@
+"guid":"b1acf82a-267a-4d78-895d-f5f7ce48af3a"
+"datetime":""
+"url":"http://switchoffandbreathe.org/emissions-information/"
+"analyst-name":"Al Baker"
+"analyst-email":"A.Baker-Graham@leeds.ac.uk"

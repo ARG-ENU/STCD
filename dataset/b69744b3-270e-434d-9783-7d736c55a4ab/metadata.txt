@@ -1,0 +1,5 @@
+"guid":"b69744b3-270e-434d-9783-7d736c55a4ab"
+"datetime":""
+"url":"https://www.itravelyork.info/buses/why-take-the-bus/"
+"analyst-name":"Al Baker"
+"analyst-email":"A.Baker-Graham@leeds.ac.uk"

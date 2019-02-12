@@ -1,0 +1,5 @@
+"guid":"7b558497-e728-430f-811a-7e254bb6a5e0"
+"datetime":""
+"url":"https://www.itravelyork.info/cycling/why-cycle/"
+"analyst-name":"Al Baker"
+"analyst-email":"A.Baker-Graham@leeds.ac.uk"

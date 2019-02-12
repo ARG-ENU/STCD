@@ -1,0 +1,5 @@
+"guid":"8005b8e6-5c01-4b5a-a3ca-ad2d310ca644"
+"datetime":""
+"url":"https://www.itravelyork.info/driving/electric-vehicles"
+"analyst-name":"Al Baker"
+"analyst-email":"A.Baker-Graham@leeds.ac.uk"

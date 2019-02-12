@@ -1,0 +1,257 @@
+{
+  "analyst_email": "Default Analyst Email",
+  "analyst_name": "Default Analyst Email",
+  "created": "2018-11-07T16:35:48",
+  "edges": [
+    {
+      "id": "a20eb87e-90b9-4cc7-a016-e4d3b27b7f58",
+      "source_id": "1f2451e2-7b75-4609-89b2-43b32cdfb3bf",
+      "target_id": "adef8c22-d814-4b1f-b8f6-229896fd8ef5"
+    },
+    {
+      "id": "14f8166e-c953-44f9-9b99-08d1719aa7eb",
+      "source_id": "adef8c22-d814-4b1f-b8f6-229896fd8ef5",
+      "target_id": "ffe6da85-41d0-481d-b98d-a46d7871aeda"
+    },
+    {
+      "id": "2a52adfd-4e12-4039-9ad3-9e2698806821",
+      "source_id": "bfab4fb9-0802-4067-858f-61bb7e0de17e",
+      "target_id": "cf4d89d8-37dc-46e8-a759-78bb4bf9c7f0"
+    },
+    {
+      "id": "0519fff7-34fd-4cf3-939d-6b43b2946c16",
+      "source_id": "cf4d89d8-37dc-46e8-a759-78bb4bf9c7f0",
+      "target_id": "ffe6da85-41d0-481d-b98d-a46d7871aeda"
+    },
+    {
+      "id": "13fb4a0d-52c6-4ba9-b5bb-f59f2fec91fb",
+      "source_id": "be100c75-b577-4de8-be7e-0c35fdd9d1ad",
+      "target_id": "cf4d89d8-37dc-46e8-a759-78bb4bf9c7f0"
+    },
+    {
+      "id": "761c3fc3-8974-49db-8f30-28c52e9212b7",
+      "source_id": "d97f00ed-ffed-4828-abb9-7bc42d072157",
+      "target_id": "9871256f-62da-476a-badb-3d60c50dc365"
+    },
+    {
+      "id": "7a6d3e7f-8ec1-4975-bc46-3a6203ab6543",
+      "source_id": "9871256f-62da-476a-badb-3d60c50dc365",
+      "target_id": "bfab4fb9-0802-4067-858f-61bb7e0de17e"
+    },
+    {
+      "id": "07698832-912f-4577-937e-bf7c3e815ae8",
+      "source_id": "ef499cef-6cf9-4ef7-91b5-32f002da049e",
+      "target_id": "9871256f-62da-476a-badb-3d60c50dc365"
+    },
+    {
+      "id": "24b6c172-1c66-451f-a151-7467b75113d2",
+      "source_id": "9705ec05-a130-4fcf-a248-d28e7a350578",
+      "target_id": "7f184cee-a9dc-46aa-bedd-222cc0b7353b"
+    },
+    {
+      "id": "dc4162d1-e359-42ee-90de-82546b0b8667",
+      "source_id": "7f184cee-a9dc-46aa-bedd-222cc0b7353b",
+      "target_id": "bfab4fb9-0802-4067-858f-61bb7e0de17e"
+    },
+    {
+      "id": "5001c148-f2a0-495f-98cc-de5e637b899d",
+      "source_id": "cf3ad774-be78-4f5c-b78f-0bb462b84891",
+      "target_id": "9871256f-62da-476a-badb-3d60c50dc365"
+    },
+    {
+      "id": "e80bff8f-27d9-446a-896b-9a7628946349",
+      "source_id": "18e85532-178d-4f76-8b1d-f5d94fca9626",
+      "target_id": "9871256f-62da-476a-badb-3d60c50dc365"
+    },
+    {
+      "id": "5506653a-4c54-4ab6-8040-4974b2d9bf3e",
+      "source_id": "faa1f844-a789-400e-b27e-807869aec0ff",
+      "target_id": "22df6712-238f-49fd-92c9-90012c6efcbf"
+    },
+    {
+      "id": "ee0c9925-c91e-4f62-8bdc-7388b07798aa",
+      "source_id": "22df6712-238f-49fd-92c9-90012c6efcbf",
+      "target_id": "be100c75-b577-4de8-be7e-0c35fdd9d1ad"
+    }
+  ],
+  "edited": "2018-11-07T16:49:27",
+  "id": "893501af-93bc-4973-8746-efebf42515a1",
+  "metadata": {},
+  "nodes": [
+    {
+      "id": "ffe6da85-41d0-481d-b98d-a46d7871aeda",
+      "type": "atom",
+      "text": "Why Walk?",
+      "sources": [
+        {
+          "resource_id": "cf0593a7-687a-4413-94b5-f14e1588429a",
+          "text": "Why Walk?",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "bfab4fb9-0802-4067-858f-61bb7e0de17e",
+      "type": "atom",
+      "text": "Walking is good for you",
+      "sources": [
+        {
+          "resource_id": "cf0593a7-687a-4413-94b5-f14e1588429a",
+          "text": "Walking is good for you",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "1f2451e2-7b75-4609-89b2-43b32cdfb3bf",
+      "type": "atom",
+      "text": "it’s free",
+      "sources": [
+        {
+          "resource_id": "cf0593a7-687a-4413-94b5-f14e1588429a",
+          "text": "it’s free",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "be100c75-b577-4de8-be7e-0c35fdd9d1ad",
+      "type": "atom",
+      "text": "Walking into University is an easy way to build some exercise into your day.",
+      "sources": [
+        {
+          "resource_id": "cf0593a7-687a-4413-94b5-f14e1588429a",
+          "text": "Walking into University is an easy way to build some exercise into your day.",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "adef8c22-d814-4b1f-b8f6-229896fd8ef5",
+      "type": "scheme",
+      "name": "Argument from Commitment"
+    },
+    {
+      "id": "cf4d89d8-37dc-46e8-a759-78bb4bf9c7f0",
+      "type": "scheme",
+      "name": "Argument from Commitment"
+    },
+    {
+      "id": "d97f00ed-ffed-4828-abb9-7bc42d072157",
+      "type": "atom",
+      "text": "Reduces the risk of chronic illness (e.g. heart disease, type 2 diabetes, asthma, stroke and some cancers)",
+      "sources": [
+        {
+          "resource_id": "cf0593a7-687a-4413-94b5-f14e1588429a",
+          "text": "Reduces the risk of chronic illness (e.g. heart disease, type 2 diabetes, asthma, stroke and some cancers)",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "9871256f-62da-476a-badb-3d60c50dc365",
+      "type": "scheme",
+      "name": "Argument from Example"
+    },
+    {
+      "id": "ef499cef-6cf9-4ef7-91b5-32f002da049e",
+      "type": "atom",
+      "text": "Walking at 3mph for 30 minutes, a 60kg person will burn 99 calories",
+      "sources": [
+        {
+          "resource_id": "cf0593a7-687a-4413-94b5-f14e1588429a",
+          "text": "Walking at 3mph for 30 minutes, a 60kg person will burn 99 calories",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "9705ec05-a130-4fcf-a248-d28e7a350578",
+      "type": "atom",
+      "text": "Walking the NHS advised 10,000 steps a day will significantly improve your health",
+      "sources": [
+        {
+          "resource_id": "cf0593a7-687a-4413-94b5-f14e1588429a",
+          "text": "Walking the NHS advised 10,000 steps a day will significantly improve your health",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "7f184cee-a9dc-46aa-bedd-222cc0b7353b",
+      "type": "scheme",
+      "name": "Argument from Expert Opinion"
+    },
+    {
+      "id": "18e85532-178d-4f76-8b1d-f5d94fca9626",
+      "type": "atom",
+      "text": "Being more active is proven to make people more productive",
+      "sources": [
+        {
+          "resource_id": "cf0593a7-687a-4413-94b5-f14e1588429a",
+          "text": "Being more active is proven to make people more productive",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "cf3ad774-be78-4f5c-b78f-0bb462b84891",
+      "type": "atom",
+      "text": "More active people are less likely to need to take sick leave",
+      "sources": [
+        {
+          "resource_id": "cf0593a7-687a-4413-94b5-f14e1588429a",
+          "text": "More active people are less likely to need to take sick leave",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "faa1f844-a789-400e-b27e-807869aec0ff",
+      "type": "atom",
+      "text": "WalkIt is an urban walking route planner telling you the;\n\nBest route to your destination\nAmount of steps taken\nLength of the journey\nCalories burnt\nCO2 saved",
+      "sources": [
+        {
+          "resource_id": "cf0593a7-687a-4413-94b5-f14e1588429a",
+          "text": "WalkIt is an urban walking route planner telling you the;\n\nBest route to your destination\nAmount of steps taken\nLength of the journey\nCalories burnt\nCO2 saved",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "22df6712-238f-49fd-92c9-90012c6efcbf",
+      "type": "scheme",
+      "name": "Argument from Example"
+    }
+  ],
+  "resources": [
+    {
+      "id": "cf0593a7-687a-4413-94b5-f14e1588429a",
+      "content": "Why Walk?\nWalking is good for you and it’s free. Walking into University is an easy way to build some exercise into your day.\n\nHealth benefits:\n\nReduces the risk of chronic illness (e.g. heart disease, type 2 diabetes, asthma, stroke and some cancers)\nWalking at 3mph for 30 minutes, a 60kg person will burn 99 calories\nWalking the NHS advised 10,000 steps a day will significantly improve your health\nTips:\n\nWear a good pair of shoes\nEncourage a neighbour to walk in with you\nCarry a personal alarm for safety\nUse well lit routes\nAvoid walking on the road\nOther benefits:\n\nBeing more active is proven to make people more productive\nMore active people are less likely to need to take sick leave\nWalkIt\nAvailable as an iPhone and Android app, WalkIt is an urban walking route planner telling you the;\n\nBest route to your destination\nAmount of steps taken\nLength of the journey\nCalories burnt\nCO2 saved",
+      "type": "text",
+      "metadata": {
+        "title": "resource"
+      }
+    }
+  ]
+}

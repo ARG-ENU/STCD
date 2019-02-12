@@ -1,0 +1,5 @@
+"guid":"5b9f834b-0065-402f-89f4-3ecfea82bb04"
+"datetime":""
+"url":"https://www.itravelyork.info/walking/why-walk/"
+"analyst-name":"Al Baker"
+"analyst-email":"A.Baker-Graham@leeds.ac.uk"

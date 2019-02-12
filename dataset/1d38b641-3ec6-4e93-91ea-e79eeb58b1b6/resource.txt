@@ -1,0 +1,85 @@
+[Image: cyclestreets logo]   [Image: beta]  
+[Image: Donate using PayPal]  
+Sign in
+Sign up
+Blog
+My area
+Journey planner
+Photomap
+Mobile
+About
+Help
+Feedback
+Collision map browsing
+Collision data search
+Collision data reports (STATS19)
+Although cycling is not an inherently unsafe activity, it remains the case in the UK that collisions and casualties are much higher than they should be, because of the lack of good cycling infrastructure and legal provisions to protect those who cycle.
+
+This map and the [Image: Icon]  search query facility shows the locations and details of collisions in the period 2005-2014. It uses STATS19 data from the DfT.
+
+We also have a data interface (API) available for programmers.
+
+Show key [Image: Icon]   Fatal [Image: Icon]   Serious [Image: Icon]   Slight
+Draw an area
+to obtain report
+ draw area
+Click to set points marking an area on the map.
+
+Click again on the first point to complete the shape.
+
+Zoom in and pan to select the correct area.
+
+ clear 
+ 
+We welcome your feedback, especially to report bugs or give us route feedback.
+
+My comments relate to: * Route problem/feedback
+Other Journey Planner problem
+Photomap
+Mobile app feedback
+Bug report
+Report abuse
+Other, general feedback
+Your comments: * URL of page: * https://www.cyclestreets.net/collisions/ How did you find out about CycleStreets?: Your name: Your e-mail address: Our ref: Please leave blank - anti-spam measure
+
+* Items marked with an asterisk [*] are required fields and must be fully completed.
+
+A project originating from Cambridge Cycling Campaign  //  Hosting kindly helped by Mythic Beasts
+
+[Image: Twitter feed]     [Image: Facebook page]     Google+   Short link:  http://cycle.st/collisions/  
+
+About:
+About CycleStreets
+How it works
+Features
+Help
+Feedback
+Funding drive
+Contact us
+Donate
+Local Authorities:
+Embedded journey planner
+Custom cycle apps
+Brochure for Local Authorities
+Example site
+Embedding methods
+Link to CycleStreets
+Link to us:
+Customised link
+Per-area sites
+Banners and logos
+Developers:
+API
+Github
+Get involved:
+Get involved
+Promote
+Credits
+OpenStreetMap
+How to get mapping
+Fix/add map data
+Mobile:
+Mobile site
+iPhone app
+Android app
+Windows Phone app

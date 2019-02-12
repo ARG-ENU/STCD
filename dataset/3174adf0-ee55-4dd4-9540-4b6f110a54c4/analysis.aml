@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ARG SYSTEM "argument.dtd">
+<ARG>
+<?Araucaria UTF-8?>
+<SCHEMESET/>
+<TEXT>&#13;
+Introduction&#13;
+&#13;
+Getting actve and staying active is one of the best things you can do for your health. Every form of physical activity counts and doing something is better than doing nothing. 30 minutes 5 x per week or 150 minutes a week is the minimum recommended level of physical activity to keep you fit and healthy.&#13;
+&#13;
+TAKE 30 is the Ramblers Scotland guide to walking for health and fitness. Brisk walking for 30 minutes, most days of the week, meets this recommendation and protects the body from many illnesses and conditions.&#13;
+&#13;
+Walking is an excellent natural exercise that can help you stay healthy and live longer; control your weight; keep you happy; provide a healthy way to enjoy time with friends and family; help you learn more about your local area, and even look after the environment.&#13;
+&#13;
+For most people walking is the easiest way to get most of the physical activity you need to stay healthy.&#13;
+Walking is…&#13;
+&#13;
+    free and requires no special equipment, training or gym or club memberships;&#13;
+    available to almost everyone;&#13;
+    safe and low-impact, with a low risk of injuries and accidents;&#13;
+    easy to start slowly and build up gradually;&#13;
+    …and it’s one of the easiest activities to fit into your everyday life.&#13;
+    You can walk from your doorstep at a time that suits you.&#13;
+    You can use walking for everyday short trips (to school, work, shops).&#13;
+    You don’t need to concentrate on the walking itself, leaving you free to enjoy your surroundings, chat to friends and family or just relax.&#13;
+    You can enjoy a variety of surroundings as you walk in different places and different seasons&#13;
+&#13;
+All walking is beneficial, but for the greatest benefits to heart, lungs and blood pressure, brisk is best. You should be breathing a little faster, feeling a little warmer and feeling your heart beating a little faster although still comfortable and able to talk.&#13;
+&#13;
+</TEXT>
+<EDATA>
+<AUTHOR>null</AUTHOR>
+<DATE>2017-03-19</DATE>
+<SOURCE></SOURCE>
+<COMMENTS></COMMENTS>
+</EDATA>
+<AU>
+<PROP identifier="L" missing="yes">
+<PROPTEXT offset="-1">Walking is an excellent choice of exercise activity</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+<CA>
+<AU>
+<PROP identifier="D" missing="no">
+<PROPTEXT offset="400">Brisk walking for 30 minutes, most days of the week, meets this recommendation and protects the body from many illnesses and conditions.&#13;</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+<CA>
+<AU>
+<PROP identifier="C" missing="no">
+<PROPTEXT offset="194">30 minutes 5 x per week or 150 minutes a week is the minimum recommended level of physical activity to keep you fit and healthy.&#13;</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+<CA>
+<AU>
+<PROP identifier="B" missing="no">
+<PROPTEXT offset="105">Every form of physical activity counts and doing something is better than doing nothing. </PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+<CA>
+<AU>
+<PROP identifier="A" missing="no">
+<PROPTEXT offset="18">Getting actve and staying active is one of the best things you can do for your health.</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+</AU>
+</CA>
+</AU>
+</CA>
+</AU>
+</CA>
+<CA>
+<AU>
+<PROP identifier="a" missing="no">
+<PROPTEXT offset="1738">You should be breathing a little faster, feeling a little warmer and feeling your heart beating a little faster although still comfortable and able to talk</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+<CA>
+<AU>
+<PROP identifier="Z" missing="no">
+<PROPTEXT offset="1657">but for the greatest benefits to heart, lungs and blood pressure, brisk is best</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+<CA>
+<AU>
+<PROP identifier="Y" missing="no">
+<PROPTEXT offset="1630">All walking is beneficial</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+</AU>
+</CA>
+</AU>
+</CA>
+</AU>
+</CA>
+</AU>
+</CA>
+<CA>
+<AU>
+<PROP identifier="M" missing="yes">
+<PROPTEXT offset="-1">Walking has many benefits</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+<CA>
+<AU>
+<PROP identifier="K" missing="no">
+<PROPTEXT offset="779">look after the environment.&#13;</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+</AU>
+</CA>
+<CA>
+<AU>
+<PROP identifier="J" missing="no">
+<PROPTEXT offset="727">help you learn more about your local area,</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+</AU>
+</CA>
+<CA>
+<AU>
+<PROP identifier="I" missing="no">
+<PROPTEXT offset="666">provide a healthy way to enjoy time with friends and family</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+</AU>
+</CA>
+<CA>
+<AU>
+<PROP identifier="H" missing="no">
+<PROPTEXT offset="650">keep you happy</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+</AU>
+</CA>
+<CA>
+<AU>
+<PROP identifier="G" missing="no">
+<PROPTEXT offset="629">control your weight</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+</AU>
+</CA>
+<CA>
+<AU>
+<PROP identifier="F" missing="no">
+<PROPTEXT offset="616">live longer</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+</AU>
+</CA>
+<CA>
+<AU>
+<PROP identifier="E" missing="no">
+<PROPTEXT offset="540">Walking is an excellent natural exercise that can help you stay healthy </PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+</AU>
+</CA>
+<CA>
+<AU>
+<PROP identifier="W" missing="no">
+<PROPTEXT offset="1441">leaving you free to enjoy your surroundings, chat to friends and family or just relax.&#13;</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+<CA>
+<AU>
+<PROP identifier="X" missing="no">
+<PROPTEXT offset="1533">You can enjoy a variety of surroundings as you walk in different places and different seasons&#13;</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+</AU>
+</CA>
+<CA>
+<AU>
+<PROP identifier="V" missing="no">
+<PROPTEXT offset="1388">You don’t need to concentrate on the walking itself</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+</AU>
+</CA>
+</AU>
+</CA>
+</AU>
+</CA>
+<CA>
+<AU>
+<PROP identifier="N" missing="no">
+<PROPTEXT offset="810">For most people walking is the easiest way to get most of the physical activity you need to stay healthy.&#13;</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+<CA>
+<AU>
+<PROP identifier="O" missing="no">
+<PROPTEXT offset="917">Walking is…&#13;
+&#13;
+    free and requires no special equipment, training or gym or club memberships</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+</AU>
+</CA>
+<CA>
+<AU>
+<PROP identifier="P" missing="no">
+<PROPTEXT offset="1018">available to almost everyone</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+</AU>
+</CA>
+<CA>
+<AU>
+<PROP identifier="Q" missing="no">
+<PROPTEXT offset="1053">safe and low-impact, with a low risk of injuries and accidents</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+</AU>
+</CA>
+<CA>
+<AU>
+<PROP identifier="R" missing="no">
+<PROPTEXT offset="1122">easy to start slowly and build up gradually;&#13;</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+</AU>
+</CA>
+<CA>
+<AU>
+<PROP identifier="S" missing="no">
+<PROPTEXT offset="1173">and it’s one of the easiest activities to fit into your everyday life.&#13;</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+<CA>
+<AU>
+<PROP identifier="T" missing="no">
+<PROPTEXT offset="1249">You can walk from your doorstep at a time that suits you.&#13;</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+</AU>
+</CA>
+<CA>
+<AU>
+<PROP identifier="U" missing="no">
+<PROPTEXT offset="1312">You can use walking for everyday short trips (to school, work, shops).&#13;</PROPTEXT>
+<ROLE class="wigmoreFact" element="none"/>
+<ROLE class="addedNegation" element="no"/>
+<ROLE class="toulmin" element="data"/>
+<ROLE class="wigmore" element="evidenceTestAffirm"/>
+<TUTOR end="0" start="0"/>
+</PROP>
+</AU>
+</CA>
+</AU>
+</CA>
+</AU>
+</CA>
+</AU>
+</ARG>

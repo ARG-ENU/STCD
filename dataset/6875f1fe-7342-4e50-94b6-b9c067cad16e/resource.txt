@@ -1,0 +1,124 @@
+Skip to main content
+NHS homepageMenu
+Search the NHS website
+
+Enter a search term
+ Search
+Home  Behind the Headlines  Lifestyle and exercise
+'Walk or cycle to work to lose weight,' says study
+Tuesday July 19 2016
+
+Page contents
+Where did the story come from?
+What kind of research was this?
+What did the research involve?
+What were the basic results?
+How did the researchers interpret the results?
+Conclusion
+"Pedalling the pounds away: Why cycling could be the best way to lose weight," says The Daily Telegraph, reporting on a UK study comparing how different methods of commuting affected obesity levels.
+
+People who cycled to work typically had a lower body mass index (BMI) and body fat than their walking counterparts, according to the study by the London School of Hygiene and Tropical Medicine.
+
+All commuting methods except "car and public transport" showed a significantly lower BMI and body fat percentage for men and women when compared to car-only travellers.
+
+People who used cycling as their main mode of transportation had a BMI that was about 1.7kg/m2 lower than those who mainly travelled by car.
+
+For the average man in the study (age 53 years, height 176cm, weight 86kg) this finding equates to a substantial weight difference of 5kg.
+
+The findings are based on comparing the BMI and body fat percentage of 150,000 UK men and women aged 40 to 69 with their habitual mode of transportation.
+
+The researchers said their findings support the case for programmes to promote commuting by walking and cycling as a means of preventing obesity among mid-life adults.
+
+Overall, this was a well-designed study which attempted to provide the best possible estimate by using a very large sample from the UK and controlling for key confounders.
+
+However, as this was an observational study it cannot prove cause and effect.
+
+While this study cannot prove the link, it does make sense that those who have a more active lifestyle would be less likely to be overweight.
+
+As it is becoming increasingly difficult to fit exercise into our daily routine, using an active mode of transport to commute can help increase people's physical activity.
+
+Where did the story come from?
+The study was carried out by researchers from the London School of Hygiene and Tropical Medicine and was funded by the UK Medical Research Council.
+
+The study was published in the peer-reviewed medical journal: Lancet: Diabetes-Endocrinology.
+
+Its findings were reported accurately in the Telegraph, which included a number of case studies of people who cycle to work and their perceived health benefits.
+
+What kind of research was this?
+This was a cross sectional study using data from the UK Biobank, a database set up with the aim of improving the prevention, diagnosis and treatment of a wide range of serious and life-threatening illnesses.
+
+The study aimed to assess the relationship between active commuting and obesity in mid-life.
+
+This type of study is great for examining data collected over a long period, however, while it is possible to show an association, it is not able to prove cause and effect.
+
+What did the research involve?
+The researchers used data from the UK Biobank for adults aged 40 to 69, gathered from 22 assessment centres in the UK between 2006 and 2010.
+
+Data was collected for commuting methods which were split into seven groups reflecting the physical exertion required. The categories were:
+
+car only
+car and public transport
+public transport only
+car and a mixture of all other methods
+public transport and active methods (walking, cycling, or both)
+walking only
+cycling only
+cycling and walking
+To assess the impact of these commuting methods on obesity the following outcomes were assessed:
+
+BMI
+percentage body fat
+These measurements were taken by trained staff.
+
+The relationship was examined using statistical methods and took into account possible confounders, such as income, urban or rural residence, alcohol intake, smoking and leisure physical activity. Data for confounders was self-reported.
+
+What were the basic results?
+The analysis included 72,999 men and 83,667 women for the primary outcome of BMI. The most common method of commuting was by car (64% of men, 61% of women), with 23% of men and 24% of women using active transport methods alone or within a mix of methods.
+
+The researchers compared each commuting category to car-only travel.
+
+The greatest difference was found for commuters who travelled by bicycle. After adjusting for confounders, male cyclists had a BMI 1.71kg/m2 lower (95% confidence interval (CI) -1.86 to -1.56), and female cyclists had a BMI 1.65kg/m2 lower (95% CI -1.92 to -1.38) on average than their car-only counterparts.
+
+Percentage body fat was also lowest for cyclists; this was 2.75% lower for men (95% CI -3.03 to -2.48) and 3.26% lower for women (95% CI -3.80 to -2.71).
+
+All commuting methods except "car and public transport" showed significantly lower BMI and percentage body fat for men and women when compared to car travel.
+
+How did the researchers interpret the results?
+The researchers conclude: "This study is the first to use UK Biobank data to address the topic of active commuting and obesity and shows robust, independent associations between active commuting and healthier bodyweight and composition.
+
+"These findings support the case for interventions to promote active travel as a population-level policy response for prevention of obesity in mid-life."
+
+Conclusion
+This was a cross-sectional study which aimed to assess the link between methods of commuting and obesity in adults.
+
+Overall this was a well-designed study which attempted to provide the best possible estimate by using a very large sample from the UK and controlling for key socioeconomic and lifestyle confounders that could also be associated with BMI and body fat.
+
+However, as this was an observational study it is not possible to prove cause and effect. The limitations are that even when attempts are made, there is always a risk of residual confounding in the model.
+
+Much of the data collected, such as method of commuting and food consumption, was self-reported and this is always subject to bias.
+
+It is possible that the UK Biobank is not representative of the UK population and findings would not be applicable to the general public.
+
+The results also only apply to people from midlife to middle age. You may expect to see similar links in younger adults but this can't be assumed.
+
+It's also worth noting that while the researchers report the difference in BMI between people commuting by car compared with other methods, the proportions of people in the different travel groups who are actually obese is not reported.
+
+The researchers report the average BMI for all men in the study as 27.5 and women at 26.4 – therefore the total sample was on average overweight. However, they do not report the average BMI for people in the different travel categories.
+
+While we cannot be certain from this study that commuting by active methods leads to lower BMI and body fat percentage it would make sense.
+
+With hectic lifestyles it is becoming increasingly difficult to fit exercise into the daily routine so using an active mode of transport to commute helps to increase physical activity time in people of any age.
+
+Analysis by Bazian 
+Edited by NHS Website
+
+Links to the headlines
+Pedalling the pounds away: Why cycling could be the best way to lose weight
+
+The Daily Telegraph, July 15 2016
+
+Links to the science
+Flint E and Cummins S. Active commuting and obesity in mid-life: cross-sectional, observational evidence from UK BiobankLancet Diabetes-Endocrinology. Published online 16 March 2016
+
+NHS homepage NHS sites About us Contact us Profile editor login
+Sitemap Accessibility Our policies © Crown Copyright

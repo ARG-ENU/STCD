@@ -1,0 +1,5 @@
+"guid":"9b0467e2-40d4-4169-850f-767ec52e6981"
+"datetime":""
+"url":"https://liftshare.com/uk/community/faqs"
+"analyst-name":"Al Baker"
+"analyst-email":"A.Baker-Graham@leeds.ac.uk"

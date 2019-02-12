@@ -1,0 +1,268 @@
+{
+  "analyst_email": "Default Analyst Email",
+  "analyst_name": "Default Analyst Email",
+  "created": "2018-11-05T16:26:44",
+  "edges": [
+    {
+      "id": "e16cfa9f-5d18-4ebc-8a74-cf4db3773b34",
+      "source_id": "8dab72e4-2531-4f27-a46d-6e35fd8289b2",
+      "target_id": "e0b65e26-c52e-4db0-b19f-27913313390b"
+    },
+    {
+      "id": "0fcf46e9-8fde-432d-9138-7a41314dbdf6",
+      "source_id": "e0b65e26-c52e-4db0-b19f-27913313390b",
+      "target_id": "389e5393-600d-4d95-9ab2-018c5cf4fb79"
+    },
+    {
+      "id": "88cd9af8-a0b7-4edc-ae77-9d68bbefdb76",
+      "source_id": "1859052e-6669-4386-ac5e-efd1fcf51a3f",
+      "target_id": "c0f04963-453a-4b0b-bd14-3dc0f60cf53a"
+    },
+    {
+      "id": "c450d305-91d4-4537-ae74-ca6224245f72",
+      "source_id": "c0f04963-453a-4b0b-bd14-3dc0f60cf53a",
+      "target_id": "389e5393-600d-4d95-9ab2-018c5cf4fb79"
+    },
+    {
+      "id": "28de55a8-dcb3-4a0d-8a7f-78df26841ae2",
+      "source_id": "736f19e7-44d8-454d-bf20-19a3c8fe0a94",
+      "target_id": "a2928be4-1fa7-4eb3-8cb7-1c5b8dc49fda"
+    },
+    {
+      "id": "1659eaa8-625c-42b3-a65d-b80b66890c09",
+      "source_id": "a2928be4-1fa7-4eb3-8cb7-1c5b8dc49fda",
+      "target_id": "389e5393-600d-4d95-9ab2-018c5cf4fb79"
+    },
+    {
+      "id": "3c27f022-d77d-4ca9-87a6-62d6b844ca7c",
+      "source_id": "b2fbb579-c079-4a45-824b-04391221d1a8",
+      "target_id": "1846934e-c01c-4776-aa0b-81187cd647c6"
+    },
+    {
+      "id": "86904efe-b0f9-42b6-a445-b2762adbd8b6",
+      "source_id": "1846934e-c01c-4776-aa0b-81187cd647c6",
+      "target_id": "736f19e7-44d8-454d-bf20-19a3c8fe0a94"
+    },
+    {
+      "id": "3897a719-ea40-48ab-8019-937576920ce7",
+      "source_id": "8234126f-610b-494c-8a9d-51f634b514ff",
+      "target_id": "36a8b08c-e72d-4f38-8245-d74cbde3d09b"
+    },
+    {
+      "id": "64c7d473-2cfb-4e2a-961d-f021c2e9d923",
+      "source_id": "36a8b08c-e72d-4f38-8245-d74cbde3d09b",
+      "target_id": "1fad8fa7-0ae4-4f83-81d0-15b18374a2c0"
+    },
+    {
+      "id": "5f363da5-19c2-415b-b2f5-6a3fd3227d74",
+      "source_id": "389e5393-600d-4d95-9ab2-018c5cf4fb79",
+      "target_id": "cd9a1701-f4fc-49de-9ac3-7a92b5fa751f"
+    },
+    {
+      "id": "a8a0be0b-e2d4-4f08-ad23-ed5c56b84df8",
+      "source_id": "cd9a1701-f4fc-49de-9ac3-7a92b5fa751f",
+      "target_id": "8234126f-610b-494c-8a9d-51f634b514ff"
+    },
+    {
+      "id": "385233f1-8425-4b2f-a147-d8e84c408d38",
+      "source_id": "120104f1-3a6b-4838-9f38-14b3649650ec",
+      "target_id": "dd45a76e-8906-44b0-b001-9f12b974f88f"
+    },
+    {
+      "id": "398c7802-0e72-491c-89ce-ec8792ff81e1",
+      "source_id": "dd45a76e-8906-44b0-b001-9f12b974f88f",
+      "target_id": "6e7329bd-951b-4991-a12b-c88be86bd6bf"
+    },
+    {
+      "id": "6edf4877-2790-4b8d-99e9-76ae29c06daf",
+      "source_id": "6e7329bd-951b-4991-a12b-c88be86bd6bf",
+      "target_id": "11f2b584-b017-4c25-b4f6-37c7ad30a5c0"
+    },
+    {
+      "id": "4d5055a9-e795-430d-9e73-e1a47ab9f9b9",
+      "source_id": "11f2b584-b017-4c25-b4f6-37c7ad30a5c0",
+      "target_id": "389e5393-600d-4d95-9ab2-018c5cf4fb79"
+    }
+  ],
+  "edited": "2018-11-05T16:34:38",
+  "id": "d642cae1-2fbf-4fbf-b622-dc8861a0b36e",
+  "metadata": {},
+  "nodes": [
+    {
+      "id": "8234126f-610b-494c-8a9d-51f634b514ff",
+      "type": "atom",
+      "text": "Join the electric revolution (by driving an electric car)",
+      "sources": [
+        {
+          "resource_id": "fc5c05a9-4bc8-4d58-ac56-a90f3faed571",
+          "text": "Join the electric revolution",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "1fad8fa7-0ae4-4f83-81d0-15b18374a2c0",
+      "type": "atom",
+      "text": "do your part in improving the air quality in your region",
+      "sources": [
+        {
+          "resource_id": "fc5c05a9-4bc8-4d58-ac56-a90f3faed571",
+          "text": "do your part in improving the air quality in your region",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "6e7329bd-951b-4991-a12b-c88be86bd6bf",
+      "type": "atom",
+      "text": "while spending less on filling up",
+      "sources": [
+        {
+          "resource_id": "fc5c05a9-4bc8-4d58-ac56-a90f3faed571",
+          "text": "while spending less on filling up",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "8dab72e4-2531-4f27-a46d-6e35fd8289b2",
+      "type": "atom",
+      "text": "Zero tail pipe emissions",
+      "sources": [
+        {
+          "resource_id": "fc5c05a9-4bc8-4d58-ac56-a90f3faed571",
+          "text": "Zero tail pipe emissions",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "736f19e7-44d8-454d-bf20-19a3c8fe0a94",
+      "type": "atom",
+      "text": "Exemption from Vehicle Excise Duty (car tax)",
+      "sources": [
+        {
+          "resource_id": "fc5c05a9-4bc8-4d58-ac56-a90f3faed571",
+          "text": "Exemption from Vehicle Excise Duty (car tax)",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "1859052e-6669-4386-ac5e-efd1fcf51a3f",
+      "type": "atom",
+      "text": "Extremely quiet",
+      "sources": [
+        {
+          "resource_id": "fc5c05a9-4bc8-4d58-ac56-a90f3faed571",
+          "text": "Extremely quiet",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "120104f1-3a6b-4838-9f38-14b3649650ec",
+      "type": "atom",
+      "text": "Cheap to run (as low as 2p per mile depending on your charging tariff)",
+      "sources": [
+        {
+          "resource_id": "fc5c05a9-4bc8-4d58-ac56-a90f3faed571",
+          "text": "Cheap to run (as low as 2p per mile depending on your charging tariff)",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "b2fbb579-c079-4a45-824b-04391221d1a8",
+      "type": "atom",
+      "text": "There are number of government funded projects and incentives to encourage more people to take up electric cars and vans. For more information visit The Office for Low Emission Vehicles",
+      "sources": [
+        {
+          "resource_id": "fc5c05a9-4bc8-4d58-ac56-a90f3faed571",
+          "text": "There are number of government funded projects and incentives to encourage more people to take up electric cars and vans. For more information visit The Office for Low Emission Vehicles",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "389e5393-600d-4d95-9ab2-018c5cf4fb79",
+      "type": "atom",
+      "text": "(There are many) Electric car benefits",
+      "sources": [
+        {
+          "resource_id": "fc5c05a9-4bc8-4d58-ac56-a90f3faed571",
+          "text": "Electric car benefits",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "e0b65e26-c52e-4db0-b19f-27913313390b",
+      "type": "scheme",
+      "name": "Argument from Example"
+    },
+    {
+      "id": "c0f04963-453a-4b0b-bd14-3dc0f60cf53a",
+      "type": "scheme",
+      "name": "Argument from Example"
+    },
+    {
+      "id": "a2928be4-1fa7-4eb3-8cb7-1c5b8dc49fda",
+      "type": "scheme",
+      "name": "Argument from Example"
+    },
+    {
+      "id": "1846934e-c01c-4776-aa0b-81187cd647c6",
+      "type": "scheme",
+      "name": "Argument from Example"
+    },
+    {
+      "id": "36a8b08c-e72d-4f38-8245-d74cbde3d09b",
+      "type": "scheme",
+      "name": "Argument from Cause to Effect"
+    },
+    {
+      "id": "cd9a1701-f4fc-49de-9ac3-7a92b5fa751f",
+      "type": "scheme",
+      "name": "Argument from Commitment"
+    },
+    {
+      "id": "dd45a76e-8906-44b0-b001-9f12b974f88f",
+      "type": "scheme",
+      "name": "Argument from Evidence to a Hypothesis"
+    },
+    {
+      "id": "11f2b584-b017-4c25-b4f6-37c7ad30a5c0",
+      "type": "scheme",
+      "name": "Argument from Example"
+    }
+  ],
+  "resources": [
+    {
+      "id": "fc5c05a9-4bc8-4d58-ac56-a90f3faed571",
+      "content": "Menu Search\r\nHome  Ways to travel  Driving  Electric Cars\r\nElectric Cars\r\nGreener and cleaner\r\n\r\nThe West Midlands is fast becoming an electric region with more charging points being installed than ever before, thanks to projects such as Plugged-in Midlands.\r\n\r\nThinking of going electric?\r\nJoin the electric revolution and do your part in improving the air quality in your region while spending less on filling up. Electric car benefits include:\r\n\r\nZero tail pipe emissions\r\nExemption from Vehicle Excise Duty (car tax)\r\nExtremely quiet\r\nCheap to run (as low as 2p per mile depending on your charging tariff)\r\nThere are number of government funded projects and incentives to encourage more people to take up electric cars and vans. For more information visit The Office for Low Emission Vehicles\r\n\r\nRegister to charge\r\nAll of our points are current part of the Polar Network. You can to subscribe here to become a member of this privately operated charge point network of around 5000 points nationwide. \r\n\r\nRegister now\r\nWhere to charge\r\nPublicly accessible charging points are available at rail stations and community car parks across the West Midlands.\r\n\r\nRail stations\r\n\r\nBromsgrove\r\nLongbridge\r\nSolihull\r\nRowley Regis \r\nTile Hill\r\nYardley Wood\r\n\r\nCommunity\r\n\r\nVisit Polar Network for a full list of West Midland's community charging points.\r\n\r\nHow to charge\r\nBefore driving out to charge up, remember to check the status of your preferred charging point.\r\n\r\nView live charge point status on the Polar Network Live Map\r\n\r\nTo start the charge:\r\n\r\nIf the Charge Point has an available socket, begin by plugging your charge cable into your vehicle*\r\nShow the RFID membership card to the RFID reader on the front of the post\r\nThe post will then offer an available socket\r\nLift the door and plug in the vehicle\r\nThe charging will start automatically. Notice the LEDs on the post will turn blue (indicating charging)\r\nTo finish the charge:\r\n\r\nShow the same RFID membership card to the post that started the charge\r\nLift the door and remove the plug\r\nThe door will close and lock shut\r\nUnplug cable from car and stow\r\n* Please note: You should always connect your charge cable to your car before connecting to a Charging Point or as directed by your vehicle's owner�s manual.\r\n\r\nImportant Safety Information \r\n\r\nYour charging cable should never be used if it is damaged or has been tampered with. Please check that it is in good condition before plugging it into a Charge Point\r\nPlug your charging cable into your car before plugging into a Charge Point.\r\nDo not unplug your charge cable from your car before removing the plug from the Charge Point\r\nDo not force the Charge Point door open at any time\r\nIf the door is tampered with during charging or the cable is cut, the power will stop immediately\r\nAnyone who may have difficulty operating a Charge Point should be assisted while commencing and terminating charging\r\nIf there are any issues with the Charge Point, contact Chargemaster on Tel: 0330 016 5126\r\n\r\nPark and Ride\r\nThousands of free spaces at train and tram stops.                   \r\n\r\nFind out more\r\n\r\nCar sharing\r\nWhy travel on your own when you can cut costs in half.          \r\n\r\nFind out more\r\n\r\nShare\r\nFacebookTwitterGoogle+ Email PrintBack to top\r\n Plan your journey\r\n\r\nStay up to date\r\nDon't miss out on vital information, sign up today and be in the know at all times.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nSubscribe\r\nShare\r\nFacebookTwitterGoogle+ Email Print\r\nMore information\r\nJobseekers\r\nYoung People\r\nTransport accessibility\r\nDisabled person's pass\r\nFollow us on...\r\nFacebookTwitterInstagram\r\nSwift Pay As You Go\r\nIf you pay cash fares to travel, PAYG is the smarter and cheaper way to travel by bus and tram in the West Midlands.\r\n\r\nFind out more\r\n\r\nInformation for...\r\nJobcentres\r\nCompanies\r\nTeaching professionals\r\nAccessibility Terms & Conditions Jobs Media Privacy Statement Contact Cookies \r\n\r\n� West Midlands Combined Authority\r\n",
+      "type": "text",
+      "metadata": {
+        "title": "resource.txt"
+      }
+    }
+  ]
+}

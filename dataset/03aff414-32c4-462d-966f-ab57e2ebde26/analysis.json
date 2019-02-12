@@ -1,0 +1,334 @@
+{
+  "analyst_email": "Default Analyst Email",
+  "analyst_name": "Default Analyst Email",
+  "created": "2018-11-07T17:02:14",
+  "edges": [
+    {
+      "id": "49118a2a-ea04-4d43-8cae-53e07ee018ee",
+      "source_id": "989a36a3-45a1-42b5-9802-db89e3d3883a",
+      "target_id": "eee5f495-f2dd-4933-abf6-d2d6bdd7a431"
+    },
+    {
+      "id": "a81ec308-9555-4f69-b7c5-3953a8d4e51f",
+      "source_id": "eee5f495-f2dd-4933-abf6-d2d6bdd7a431",
+      "target_id": "8c2742f5-4347-4985-8917-20527dad5842"
+    },
+    {
+      "id": "632f245f-2343-4037-ba81-75783cf6d8c5",
+      "source_id": "22e71999-288f-4dc4-9937-fdac97a1ee32",
+      "target_id": "7ab22df7-57a5-42b0-a074-d36033ff7dbb"
+    },
+    {
+      "id": "9f0c48f4-2ca6-4472-8344-f5dd55471b84",
+      "source_id": "7ab22df7-57a5-42b0-a074-d36033ff7dbb",
+      "target_id": "989a36a3-45a1-42b5-9802-db89e3d3883a"
+    },
+    {
+      "id": "93a3e485-2c3d-48e3-8413-f723ceebfe9e",
+      "source_id": "27728d9a-66aa-4716-b7b5-b56c7d1c0631",
+      "target_id": "7ab22df7-57a5-42b0-a074-d36033ff7dbb"
+    },
+    {
+      "id": "0cd9e35c-3b01-4110-b316-c3308c311538",
+      "source_id": "03341254-6c01-492a-81d2-d0b13e85d531",
+      "target_id": "7ab22df7-57a5-42b0-a074-d36033ff7dbb"
+    },
+    {
+      "id": "455af646-c0d8-41af-8598-1a4a4daec248",
+      "source_id": "2dac264d-ea4e-4fbb-804c-c5d81dc30086",
+      "target_id": "7ab22df7-57a5-42b0-a074-d36033ff7dbb"
+    },
+    {
+      "id": "c630e770-d937-49b6-86c5-70ea07b8dcd2",
+      "source_id": "2b6d5ced-e7b3-4c8b-9a6f-e7d3291472ed",
+      "target_id": "7ab22df7-57a5-42b0-a074-d36033ff7dbb"
+    },
+    {
+      "id": "771a06ef-fc98-4929-a88a-d57a2eba5445",
+      "source_id": "34a23e80-b209-4df1-a9ba-c834ceade56e",
+      "target_id": "0d236327-23e5-4877-828f-8f6c4a5acb6b"
+    },
+    {
+      "id": "e29786e7-82f5-407c-bbfc-cf64873c49f3",
+      "source_id": "0d236327-23e5-4877-828f-8f6c4a5acb6b",
+      "target_id": "864861e6-78da-44ef-b48c-134aa7164d00"
+    },
+    {
+      "id": "0a4b2567-92c0-4e06-a632-15700e57c5d5",
+      "source_id": "6d0bcc5c-b46e-4e70-98fd-4fefacf26ee6",
+      "target_id": "0d236327-23e5-4877-828f-8f6c4a5acb6b"
+    },
+    {
+      "id": "c23e816b-ba9e-488d-a5e2-cf28df59c658",
+      "source_id": "2aef6a05-11b7-4485-a73f-09dca89dd5df",
+      "target_id": "0d236327-23e5-4877-828f-8f6c4a5acb6b"
+    },
+    {
+      "id": "88e5d4f7-5d6f-4f3b-8fde-c7d3b815687c",
+      "source_id": "032a3b8b-8202-4d02-99b7-1a8ba9964f47",
+      "target_id": "033f9c1d-d5cb-4aa0-b6a1-b298b44f840f"
+    },
+    {
+      "id": "3cc762d3-e81e-4a40-835d-291b6d6809ca",
+      "source_id": "033f9c1d-d5cb-4aa0-b6a1-b298b44f840f",
+      "target_id": "8c273279-7a98-4266-9094-9f0ea196755e"
+    },
+    {
+      "id": "ce940609-6514-4c00-9bab-85f1783bd2ef",
+      "source_id": "8c273279-7a98-4266-9094-9f0ea196755e",
+      "target_id": "3d3767b8-5ca1-4c36-b3d8-a76f02142222"
+    },
+    {
+      "id": "139fd97c-fce4-4a56-868f-22b080b2208d",
+      "source_id": "3d3767b8-5ca1-4c36-b3d8-a76f02142222",
+      "target_id": "864861e6-78da-44ef-b48c-134aa7164d00"
+    },
+    {
+      "id": "7ef394a6-b891-4b1b-a105-b30f21415265",
+      "source_id": "864861e6-78da-44ef-b48c-134aa7164d00",
+      "target_id": "cad93bcb-5205-4c05-a31c-9420e352777b"
+    },
+    {
+      "id": "2d67d08b-569f-4026-a970-071884ef6d96",
+      "source_id": "cad93bcb-5205-4c05-a31c-9420e352777b",
+      "target_id": "2b6d5ced-e7b3-4c8b-9a6f-e7d3291472ed"
+    },
+    {
+      "id": "e136b937-a29d-4bc1-8f7e-af55d8d1415c",
+      "source_id": "cad93bcb-5205-4c05-a31c-9420e352777b",
+      "target_id": "27728d9a-66aa-4716-b7b5-b56c7d1c0631"
+    },
+    {
+      "id": "488edd3c-575e-4d34-adf0-7f684486ae0a",
+      "source_id": "cad93bcb-5205-4c05-a31c-9420e352777b",
+      "target_id": "22e71999-288f-4dc4-9937-fdac97a1ee32"
+    }
+  ],
+  "edited": "2018-11-13T15:55:12",
+  "id": "bec58945-99a5-47bd-a858-8ec66a6b74ce",
+  "metadata": {},
+  "nodes": [
+    {
+      "id": "989a36a3-45a1-42b5-9802-db89e3d3883a",
+      "type": "atom",
+      "text": "There are numerous benefits for individuals as well as the University resulting from changing to more sustainable travel means",
+      "sources": [
+        {
+          "resource_id": "50bc32db-f98e-4c9b-b963-2a31ec991018",
+          "text": "There are numerous benefits for individuals as well as the University resulting from changing to more sustainable travel means",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "8c2742f5-4347-4985-8917-20527dad5842",
+      "type": "atom",
+      "text": "[You should use more sustainable travel]",
+      "sources": [
+        {
+          "resource_id": "50bc32db-f98e-4c9b-b963-2a31ec991018",
+          "text": "[You should use more sustainable travel]",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "22e71999-288f-4dc4-9937-fdac97a1ee32",
+      "type": "atom",
+      "text": "Reduced travel costs",
+      "sources": [
+        {
+          "resource_id": "50bc32db-f98e-4c9b-b963-2a31ec991018",
+          "text": "Reduced travel costs",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "27728d9a-66aa-4716-b7b5-b56c7d1c0631",
+      "type": "atom",
+      "text": "Reduced environmental impact",
+      "sources": [
+        {
+          "resource_id": "50bc32db-f98e-4c9b-b963-2a31ec991018",
+          "text": "Reduced environmental impact",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "03341254-6c01-492a-81d2-d0b13e85d531",
+      "type": "atom",
+      "text": "Regular exercise should you choose to walk, jog or cycle",
+      "sources": [
+        {
+          "resource_id": "50bc32db-f98e-4c9b-b963-2a31ec991018",
+          "text": "Regular exercise should you choose to walk, jog or cycle",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "2dac264d-ea4e-4fbb-804c-c5d81dc30086",
+      "type": "atom",
+      "text": "Stress free travel through the use of public transport or car sharing",
+      "sources": [
+        {
+          "resource_id": "50bc32db-f98e-4c9b-b963-2a31ec991018",
+          "text": "Stress free travel through the use of public transport or car sharing",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "2b6d5ced-e7b3-4c8b-9a6f-e7d3291472ed",
+      "type": "atom",
+      "text": "Less time travelling on business through the use of remote conferencing",
+      "sources": [
+        {
+          "resource_id": "50bc32db-f98e-4c9b-b963-2a31ec991018",
+          "text": "Less time travelling on business through the use of remote conferencing",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "032a3b8b-8202-4d02-99b7-1a8ba9964f47",
+      "type": "atom",
+      "text": "\nWhen considering the need to undertake business travel, staff (including those with the responsibility for approving business travel) should therefore ask themselves if the journey is absolutely necessary",
+      "sources": [
+        {
+          "resource_id": "50bc32db-f98e-4c9b-b963-2a31ec991018",
+          "text": "Remote conferencing\nWhen considering the need to undertake business travel, staff (including those with the responsibility for approving business travel) should therefore ask themselves if the journey is absolutely necessary",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "8c273279-7a98-4266-9094-9f0ea196755e",
+      "type": "atom",
+      "text": "One way in which business travel can be reduced is through the use of the remote conferencing.",
+      "sources": [
+        {
+          "resource_id": "50bc32db-f98e-4c9b-b963-2a31ec991018",
+          "text": "One way in which business travel can be reduced is through the use of the remote conferencing.",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "864861e6-78da-44ef-b48c-134aa7164d00",
+      "type": "atom",
+      "text": "Remote conferencing reduces the need for staff members to travel on business e.g. to attend meetings/ training sessions at other campuses/venues, thereby realising the following benefits:",
+      "sources": [
+        {
+          "resource_id": "50bc32db-f98e-4c9b-b963-2a31ec991018",
+          "text": "Remote conferencing reduces the need for staff members to travel on business e.g. to attend meetings/ training sessions at other campuses/venues, thereby realising the following benefits:",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "6d0bcc5c-b46e-4e70-98fd-4fefacf26ee6",
+      "type": "atom",
+      "text": "Reducing the associated environmental impact from business travel.",
+      "sources": [
+        {
+          "resource_id": "50bc32db-f98e-4c9b-b963-2a31ec991018",
+          "text": "Reducing the associated environmental impact from business travel.",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "2aef6a05-11b7-4485-a73f-09dca89dd5df",
+      "type": "atom",
+      "text": "Reducing the need for out of hours business travel.",
+      "sources": [
+        {
+          "resource_id": "50bc32db-f98e-4c9b-b963-2a31ec991018",
+          "text": "Reducing the need for out of hours business travel.",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "34a23e80-b209-4df1-a9ba-c834ceade56e",
+      "type": "atom",
+      "text": "More efficient use of staff time at work.",
+      "sources": [
+        {
+          "resource_id": "50bc32db-f98e-4c9b-b963-2a31ec991018",
+          "text": "More efficient use of staff time at work.",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "eee5f495-f2dd-4933-abf6-d2d6bdd7a431",
+      "type": "scheme",
+      "name": "Argument from Consequences"
+    },
+    {
+      "id": "7ab22df7-57a5-42b0-a074-d36033ff7dbb",
+      "type": "scheme",
+      "name": "Argument from Example"
+    },
+    {
+      "id": "0d236327-23e5-4877-828f-8f6c4a5acb6b",
+      "type": "scheme",
+      "name": "Argument from Example"
+    },
+    {
+      "id": "033f9c1d-d5cb-4aa0-b6a1-b298b44f840f",
+      "type": "scheme",
+      "name": "Argument from Commitment"
+    },
+    {
+      "id": "3d3767b8-5ca1-4c36-b3d8-a76f02142222",
+      "type": "scheme",
+      "name": "Argument from Example"
+    },
+    {
+      "id": "cad93bcb-5205-4c05-a31c-9420e352777b",
+      "type": "scheme",
+      "name": "Argument from Example"
+    }
+  ],
+  "resources": [
+    {
+      "id": "50bc32db-f98e-4c9b-b963-2a31ec991018",
+      "content": "Sustainable travel\nThe University has adopted a formal sustainable travel plan with the aim of encouraging staff, students and visitors to travel to and from the University by more sustainable means.\n\nWalking\nCycling\nCar Sharing\nElectric Vehicles\nPublic Transport\nThe travel plan includes a series of initiatives to encourage the use of alternative means of travel such as car sharing, public transport, walking and cycling. Initiatives to reduce the amount of business  travel being undertaken by staff will also form part of the travel plan.\n\nThere are numerous benefits for individuals as well as the University resulting from changing to more sustainable travel means, these include:\n\nReduced travel costs\nReduced environmental impact\nRegular exercise should you choose to walk, jog or cycle\nStress free travel through the use of public transport or car sharing\nLess time travelling on business through the use of remote conferencing\nThe University’s sustainable travel plan 2012/13 to 2017/18 can be viewed below.\n\nUlster University Sustainable Travel Plan 2012/13 to 2017/18\n\nRemote conferencing\nWhen considering the need to undertake business travel, staff (including those with the responsibility for approving business travel) should therefore ask themselves if the journey is absolutely necessary.  \n\nOne way in which business travel can be reduced is through the use of the remote conferencing.\n\nThe University has excellent remote (i.e. video and telephone) conferencing facilities available,  the use of which should be fully considered as a viable replacement to travel.\n\nConferencing Types\nThe main types of remote conferencing facilities available within the University are tele-conferencing and video-conferencing.\n\nRemote conferencing reduces the need for staff members to travel on business e.g. to attend meetings/ training sessions at other campuses/venues, thereby realising the following benefits:\n\nReducing the associated travel costs to the University.\nReducing the associated environmental impact from business travel.\nMore efficient use of staff time at work.\nReducing the need for out of hours business travel.\n",
+      "type": "text",
+      "metadata": {
+        "title": "Resource"
+      }
+    }
+  ]
+}

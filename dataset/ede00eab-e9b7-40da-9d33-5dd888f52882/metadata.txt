@@ -1,0 +1,5 @@
+"guid":"ede00eab-e9b7-40da-9d33-5dd888f52882"
+"datetime":""
+"url":"http://www.cyclehayling.org.uk/im-worried-about-theft/"
+"analyst-name":"Al Baker"
+"analyst-email":"A.Baker-Graham@leeds.ac.uk"

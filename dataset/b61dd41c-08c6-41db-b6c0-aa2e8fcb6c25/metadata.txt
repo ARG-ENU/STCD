@@ -1,0 +1,5 @@
+"guid":"b61dd41c-08c6-41db-b6c0-aa2e8fcb6c25"
+"datetime":""
+"url":"http://www.cyclehayling.org.uk/get-cycling/id-like-to-cycle-more-but/"
+"analyst-name":"Al Baker"
+"analyst-email":"A.Baker-Graham@leeds.ac.uk"
